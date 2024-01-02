@@ -1,0 +1,4122 @@
+
+
+
+ ==== 150C STEAM
+
+ + 0.0 from FAUCET
+ + 194.13750000000005 with 0.8% of Literally Just Electricity Down the Drain__subline_0
+ + 0.0 with 0.0% of __SYN_CRUDE OIL REFINING__SUBLINE_0::150C STEAM::CONVERSION
+ + 0.0 with 0.0% of __SYN_ARAMID AND KEVLAR__SUBLINE_0::150C STEAM::CONVERSION
+ + 0.0 with 0.0% of __SYN_OLEOCHEMICALS__SUBLINE_0::150C STEAM::CONVERSION
+
+ - 194.13750000000007 with 32.36% of Vrauk + Vrauk Slaughter__subline_1
+
+
+
+ ==== ACETIC ACID
+
+ + 0.0 from FAUCET
+ + 537.3821057637717 with 38.38% of Acetic Acid__subline_0
+
+ - 179.62222918817585 with 81.65% of Antimony Pulp 2__subline_0
+ - 357.7598765755958 with 34.07% of Silicon Wafer Doping__subline_2
+
+
+
+ ==== ACETONE
+
+ + 0.0 from FAUCET
+ + 606.5437474408056 with 13.07% of __SYN_ORGANIC SOLVENT__SUBLINE_0::ACETONE::CONVERSION
+ + 0.0 with 0.0% of New Acetone__subline_0
+ + 528.8061129240585 with 35.25% of Organic Solvent and Acetone__subline_0
+
+ - 32.067699071674745 with 11.45% of Crude Oil Refining__subline_0
+ - 1103.2821612931896 with 13.07% of Organic Solvent__subline_0
+
+
+
+ ==== ACETYLENE
+
+ + 0.0 from FAUCET
+ + 1219.455733538246 with 6.77% of Acetylene__subline_0
+
+ - 1063.8926752020884 with 6.49% of Mall Lead Mining__subline_0
+ - 155.5630583361573 with 17.82% of Titanium Plate__subline_0
+
+
+
+ ==== ACID GAS
+
+ + 0.0 from FAUCET
+ + 1524.8393703020674 with 25.41% of Tailings to SA__subline_1
+
+ - 1515.579370302067 with 25.26% of Tailings to SA__subline_2
+ - 0.0 with 0.0% of Anthraq__subline_0
+ - 9.26 with 100.0% of Py2__subline_0
+
+
+
+ ==== ACTIVATED CARBON
+
+ + 0.0 from FAUCET
+ + 3.275869785327079 with 13.65% of UNTRACKED__subline_10
+
+ - 3.275869785327079 with 47.75% of Niobium Plate__subline_1
+
+
+
+ ==== ADVANCED SMALL PARTS
+
+ + 0.0 from FAUCET
+ + 1.0957575757575755 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+
+ - 1.0957575757575755 with 96.97% of Chemical Science__subline_0
+
+
+
+ ==== AGAR
+
+ + 0.0 from FAUCET
+ + 60.96448723068679 with 33.87% of Unnamed Agar__subline_0
+
+ - 49.40939491721519 with 41.17% of Unnamed Glassworks__subline_0
+ - 7.765500000000003 with 32.36% of Vrauk + Vrauk Slaughter__subline_1
+ - 1.71 with 100.0% of Tuuphra__subline_0
+ - 1.71 with 100.0% of Tuuphra no2__subline_0
+ - 0.3695923134716034 with 35.2% of Aramid and Kevlar__subline_0
+
+
+
+ ==== ALIEN SAMPLE
+
+ + 0.0 from FAUCET
+
+ - 0.0 with 0.0% of Good Alien Sample__subline_0
+
+
+
+ ==== ALUMINIUM PLATE
+
+ + 0.0 from FAUCET
+ + 37.88707985838814 with 31.57% of Unnamed Aluminium Plate__subline_0
+
+ - 17.072123015873018 with 41.95% of Complex Circuit Board__subline_2
+ - 2.4709665694602934 with 45.59% of Complex Circuit Board__subline_3
+ - 11.399271771023239 with 38.0% of Mall Intermetallics__subline_1
+ - 1.8181818181818181 with 24.24% of SAMM__subline_0
+ - 5.126536683849774 with 34.18% of Aramid and Kevlar__subline_1
+ - 0.0 with 0.0% of Nuclear Research__subline_0
+
+
+
+ ==== ALUMINIUM PULP 1
+
+ + 0.0 from FAUCET
+ + 54.18221134688186 with 45.15% of Aluminium Pulp 120__subline_0
+
+ - 17.072123015873018 with 41.95% of Complex Circuit Board__subline_2
+ - 37.11008833100884 with 45.59% of Complex Circuit Board__subline_3
+
+
+
+ ==== AMMONIA
+
+ + 0.0 from FAUCET
+ + 252.04210049539026 with 28.0% of Urea Decomposition__subline_0
+ + 0.0 with 0.0% of __SYN_ORGANIC SOLVENT AND ACETONE__SUBLINE_1::AMMONIA::CONVERSION
+
+ - 252.0421004953903 with 50.41% of Rare Earth Oxides__subline_0
+
+
+
+ ==== ANTHRACENE OIL
+
+ + 0.0 from FAUCET
+ + 1271.0485276550903 with 28.25% of __SYN_TAR CRACKING__SUBLINE_0::ANTHRACENE OIL::CONVERSION
+
+ - 1050.0933622840055 with 23.34% of Rubber 3__subline_0
+ - 220.9551653710848 with 14.73% of Better Anthraq__subline_0
+
+
+
+ ==== ANTHRAQUINONE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Anthraq__subline_0
+ + 441.9103307421696 with 14.73% of Better Anthraq__subline_0
+
+ - 441.91033074216944 with 20.09% of Hydrogen Peroxide]] -- LT_001__subline_0
+
+
+
+ ==== ANTIMONY GRADE 4
+
+ + 0.0 from FAUCET
+ + 68.25644709150681 with 68.26% of UNTRACKED__subline_1
+
+ - 68.25644709150681 with 81.65% of Antimony Pulp 2__subline_0
+
+
+
+ ==== ANTIMONY OXIDE
+
+ + 0.0 from FAUCET
+ + 7.1245309787585 with 8.91% of Antimony Oxide__subline_0
+
+ - 0.8333750682915326 with 6.94% of Mall Intermetallics__subline_3
+ - 0.6600000000000004 with 1.83% of Mall Intermetallics__subline_4
+ - 5.631155910466966 with 11.73% of CASTING MEGA-BLOCK__subline_3
+ - 0.0 with 0.0% of Nuclear Research__subline_0
+
+
+
+ ==== ANTIMONY PULP 02
+
+ + 0.0 from FAUCET
+ + 359.2444583763517 with 81.65% of Antimony Pulp 2__subline_0
+
+ - 359.2444583763517 with 70.58% of Silicon Wafer Doping__subline_0
+
+
+
+ ==== ARAMID FIBER
+
+ + 0.0 from FAUCET
+ + 13.670764490266063 with 34.18% of Aramid and Kevlar__subline_1
+
+ - 0.8327784848484847 with 19.97% of Optical Fiber__subline_0
+ - 0.6051630147630147 with 19.58% of Stainless Steel__subline_0
+ - 12.232822990654562 with 41.47% of Silicon Wafer__subline_1
+
+
+
+ ==== AROMATICS
+
+ + 0.0 from FAUCET
+ + 921.5442017992839 with 39.38% of __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::AROMATICS::CONVERSION
+ + 0.0 with 0.0% of __SYN_EXPLOITING COAL__SUBLINE_1::AROMATICS::CONVERSION
+ + 0.0 with 0.0% of __SYN_TAR CRACKING__SUBLINE_0::AROMATICS::CONVERSION
+
+ - 700.0622415226704 with 23.34% of Rubber 3__subline_0
+ - 17.8 with 100.0% of Py2__subline_0
+ - 185.50014209479522 with 35.2% of Aramid and Kevlar__subline_0
+ - 18.18181818181818 with 96.97% of Chemical Science__subline_0
+
+
+
+ ==== ARQAD HONEY
+
+ + 0.0 from FAUCET
+ + 584.4883333333332 with 58.45% of New Arqad Honey__subline_0
+
+ - 584.4883333333333 with 70.17% of Py2 new__subline_0
+
+
+
+ ==== ARQAD VENOM
+
+ + 0.0 from FAUCET
+ + 16.70000000000001 with 41.75% of Arqads__subline_0
+
+ - 16.7 with 100.0% of Py2__subline_0
+ - 0.0 with 0.0% of Good Alien Sample__subline_0
+
+
+
+ ==== ARTHROPOD BLOOD
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+ + 0.0 with 0.0% of __SYN_ARQADS__SUBLINE_0::ARTHROPOD BLOOD::CONVERSION
+
+ - 0.0 with 0.0% of Anthraq__subline_0
+
+
+
+ ==== ASH
+
+ + 0.0 from FAUCET
+ + 710.3484362818713 with 14.21% of CHEATS__subline_2
+ + 0.0 with 0.0% of Unnamed Rubber]] + Organic Solvent__subline_0
+ + 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+ + 0.0 with 0.0% of T.I.T.S. 2__subline_0
+ + 0.0 with 0.0% of Red Hot Coke Plant__subline_1
+ + 0.0 with 0.0% of Unnamed Iron Plates__subline_0
+ + 130.78190342999503 with 32.7% of Iron Plate Casting #2__subline_0
+ + 71.245309787585 with 8.91% of Antimony Oxide__subline_0
+ + 21.73886557886558 with 19.58% of Stainless Steel__subline_0
+
+ - 0.0 with 0.0% of CHEATS__subline_3
+ - 287.21090909090907 with 99.73% of Unnamed Automation Science__subline_0
+ - 11.28 with 60.0% of Unnamed Logistic Science__subline_0
+ - 25.94456494772284 with 21.62% of Cermet__subline_0
+ - 1.898181818181818 with 4.36% of Raw Fiber From Kicalk__subline_0
+ - 62.90184591500448 with 20.97% of Ralesia 2__subline_0
+ - 13.0882029754386 with 81.8% of Unnamed Ulrics__subline_0
+ - 0.4509000000000003 with 41.75% of Arqads__subline_0
+ - 139.89087134260217 with 13.99% of Fertilizer__subline_0
+ - 315.9254821525123 with 25.27% of Fertilizer Methane__subline_0
+ - 1.56 with 100.0% of Py2__subline_0
+ - 29.837173706404688 with 35.78% of Phosphor Processing__subline_0
+ - 25.944564947722842 with 21.62% of Lube__subline_0
+ - 18.18181818181818 with 6.06% of Ind. Solvent__subline_0
+
+
+
+ ==== AUTOMATION SCIENCE PACK
+
+ + 0.0 from FAUCET
+ + 47.86848484848485 with 99.73% of Unnamed Automation Science__subline_0
+
+ - 47.5 with 100.0% of Meta__subline_0
+ - 0.3684848484848484 with 96.97% of Chemical Science__subline_0
+
+
+
+ ==== BAKELITE
+
+ + 0.0 from FAUCET
+ + 3.2999132837812084 with 13.2% of Bakelite__subline_0
+
+ - 3.2999132837812093 with 45.64% of Complex Circuit Board__subline_8
+
+
+
+ ==== BATTERY
+
+ + 0.0 from FAUCET
+ + 8.44673386570045 with 13.04% of New Bigger Better Battery__subline_0
+
+ - 3.5999999999999996 with 60.0% of Unnamed Logistic Science__subline_0
+ - 3.395959595959596 with 20.71% of Complex Circuit Board__subline_0
+ - 0.7807742697408553 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 0.67 with 100.0% of Py2__subline_0
+
+
+
+ ==== BENZENE
+
+ + 0.0 from FAUCET
+ + 664.0278253584946 with 51.08% of __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::BENZENE::CONVERSION
+ + 0.0 with 0.0% of Exploiting Coal__subline_1
+
+ - 20.76953535353535 with 19.97% of Optical Fiber__subline_0
+ - 350.0311207613352 with 23.34% of Rubber 3__subline_0
+ - 70.8864513143313 with 11.81% of Long Tail Block__subline_5
+ - 218.18181818181816 with 24.24% of SAMM__subline_0
+ - 4.158899747474745 with 41.59% of Aramid and Kevlar__subline_2
+
+
+
+ ==== BIOMASS
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Unnamed Sand__subline_0
+
+
+
+
+ ==== BIOSAMPLE
+
+ + 0.0 from FAUCET
+
+ - 0.0 with 0.0% of Good Alien Sample__subline_0
+
+
+
+ ==== BLOOD
+
+ + 0.0 from FAUCET
+ + 84.53333333333333 with 0.54% of Mass Auog for Brains__subline_0
+ + 0.0 with 0.0% of __SYN_AUOG SLAUGHTER__SUBLINE_0::BLOOD::CONVERSION
+ + 91.06666666666663 with 56.92% of Unnamed Ulric Rendering__subline_0
+ + 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::BLOOD::CONVERSION
+
+ - 120.0 with 60.0% of Unnamed Logistic Science__subline_0
+ - 55.6 with 100.0% of Py2__subline_0
+
+
+
+ ==== BONE
+
+ + 0.0 from FAUCET
+ + 7.385000000000001 with 30.77% of Auog Slaughter__subline_0
+
+ - 7.385000000000001 with 0.82% of B.A.L.L.S Burning__subline_7
+
+
+
+ ==== BONE MEAL
+
+ + 0.0 from FAUCET
+ + 6.829999999999998 with 56.92% of Unnamed Ulric Rendering__subline_0
+
+ - 6.0 with 60.0% of Unnamed Logistic Science__subline_0
+ - 0.83 with 100.0% of Py2__subline_0
+
+
+
+ ==== BONES
+
+ + 0.0 from FAUCET
+ + 12.67613919892209 with 2.35% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::BONES::CONVERSION
+ + 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::BONES::CONVERSION
+
+ - 12.0 with 60.0% of Unnamed Logistic Science__subline_0
+ - 0.6761391989220895 with 33.81% of Navens__subline_0
+
+
+
+ ==== BORAX
+
+ + 0.0 from FAUCET
+ + 371.9489875145418 with 13.78% of Beginner Borax Mine w Washing__subline_0
+
+ - 3.3408824861528994 with 5.57% of Mall Lead Mining__subline_1
+ - 7.701339006087835 with 8.98% of Molten Nickel__subline_0
+ - 22.732247915032882 with 31.57% of Unnamed Aluminium Plate__subline_0
+ - 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+ - 0.0 with 0.0% of T.I.T.S. 2__subline_0
+ - 2.6295210581769006 with 55.24% of Unnamed [[Zinc Plates__subline_0
+ - 0.0 with 0.0% of Unnamed Iron Plates__subline_0
+ - 137.32099860149478 with 32.7% of Iron Plate Casting #2__subline_0
+ - 2.395287554596608 with 34.07% of Silicon Wafer Doping__subline_2
+ - 140.56876451126195 with 19.69% of Copper Melting__subline_0
+ - 28.577965169796563 with 26.46% of CASTING MEGA-BLOCK__subline_1
+ - 9.048068376068375 with 19.58% of Stainless Steel__subline_0
+ - 17.633912835873062 with 14.69% of Molten Chromium__subline_0
+
+
+
+ ==== BORIC ACID
+
+ + 0.0 from FAUCET
+ + 542.0917821700716 with 10.84% of 5k Boric Acid__subline_0
+
+ - 164.70514797093745 with 23.1% of Complex Circuit Board__subline_1
+ - 341.02299783549785 with 41.95% of Complex Circuit Board__subline_2
+ - 36.36363636363636 with 96.97% of Chemical Science__subline_0
+
+
+
+ ==== BORON TRIOXIDE
+
+ + 0.0 from FAUCET
+ + 1.3996506433391769 with 7.0% of Mall Glass__subline_3
+
+ - 1.3996506433391769 with 7.0% of Mall Glass__subline_2
+
+
+
+ ==== BRAIN
+
+ + 0.0 from FAUCET
+ + 129.8903276294388 with 72.16% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::BRAIN::CONVERSION
+ + 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::BRAIN::CONVERSION
+ + 2.99034375 with 24.92% of Vrauk + Vrauk Slaughter__subline_0
+ + 7.5105898728400575 with 16.69% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::BRAIN::CONVERSION
+ + 2.461666666666667 with 30.77% of Auog Slaughter__subline_0
+ + 1.138333333333333 with 56.92% of Unnamed Ulric Rendering__subline_0
+
+ - 0.0 with 0.0% of B.A.L.L.S Burning__subline_4
+ - 7.199999999999999 with 60.0% of Unnamed Logistic Science__subline_0
+ - 136.79126125227884 with 76.0% of Vatbrain Cartridge Mk2__subline_0
+
+
+
+ ==== BTX
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_CRUDE OIL REFINING__SUBLINE_0::BTX::CONVERSION
+
+ - 0.0 with 0.0% of Simple Additives__subline_1
+
+
+
+ ==== CARBONYL SULFIDE
+
+ + 0.0 from FAUCET
+ + 21.818181818181817 with 3.64% of 600 Carbonyl Sulfide__subline_0
+
+ - 21.818181818181817 with 5.45% of Rayon__subline_0
+
+
+
+ ==== CASEIN
+
+ + 0.0 from FAUCET
+ + 29.2595 with 29.26% of New Casein__subline_0
+
+ - 29.259500000000003 with 70.17% of Py2 new__subline_0
+
+
+
+ ==== CERAMIC
+
+ + 0.0 from FAUCET
+ + 3.8296121933621934 with 6.38% of Ceramic LT_001__subline_0
+
+ - 2.843955627705628 with 41.95% of Complex Circuit Board__subline_2
+ - 0.9856565656565656 with 20.71% of Complex Circuit Board__subline_7
+
+
+
+ ==== CERMET
+
+ + 0.0 from FAUCET
+ + 12.97228247386142 with 21.62% of Cermet__subline_0
+
+ - 9.886928938507886 with 23.1% of Complex Circuit Board__subline_1
+ - 3.0853535353535353 with 20.71% of Complex Circuit Board__subline_6
+
+
+
+ ==== CHEMICAL SCIENCE PACK
+
+ + 0.0 from FAUCET
+ + 4.799999999999999 with 96.97% of Chemical Science__subline_0
+
+ - 4.8 with 100.0% of Meta__subline_0
+
+
+
+ ==== CHITIN
+
+ + 0.0 from FAUCET
+ + 2.99034375 with 24.92% of Vrauk + Vrauk Slaughter__subline_0
+ + 0.0 with 0.0% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::CHITIN::CONVERSION
+ + 2.2252750000000012 with 41.75% of Arqads__subline_0
+
+ - 5.215618750000001 with 0.58% of B.A.L.L.S Burning__subline_3
+
+
+
+ ==== CHROMITE SAND
+
+ + 0.0 from FAUCET
+ + 163.14569200887965 with 31.99% of Chromium & Chromite Sand__subline_0
+ + 0.0 with 0.0% of Chromite Sand__subline_0
+
+ - 22.09551653710848 with 14.73% of Better Anthraq__subline_0
+ - 88.1695641793653 with 14.69% of Molten Chromium__subline_0
+ - 0.0 with 0.0% of New Acetone__subline_0
+ - 52.88061129240586 with 35.25% of Organic Solvent and Acetone__subline_2
+
+
+
+ ==== CHROMIUM
+
+ + 0.0 from FAUCET
+ + 131.78369023250332 with 14.64% of CASTING MEGA-BLOCK__subline_2
+
+ - 60.0 with 100.0% of Meta__subline_1
+ - 6.583585858585859 with 23.1% of Complex Circuit Board__subline_1
+ - 10.747642115275434 with 38.38% of Acetic Acid__subline_0
+ - 7.184889167527034 with 81.65% of Antimony Pulp 2__subline_0
+ - 34.74852264547047 with 12.07% of Mall Intermetallics__subline_5
+ - 2.9090909090909087 with 24.24% of SAMM__subline_0
+ - 3.0160227920227918 with 19.58% of Stainless Steel__subline_0
+ - 6.593936744530833 with 10.99% of Some Mall Builds That Are Exported (very incomplete lol)__subline_1
+
+
+
+ ==== COAL
+
+ + 0.0 from FAUCET
+ + 1.8181818181818181 with 0.61% of Coal__subline_0
+
+ - 1.8181818181818181 with 3.64% of 600 Carbonyl Sulfide__subline_0
+
+
+
+ ==== COAL DUST
+
+ + 0.0 from FAUCET
+ + 200.0 with 100.0% of UNTRACKED__subline_3
+ + 0.0 with 0.0% of Red Hot Coke Plant__subline_1
+ + 93.90707642701223 with 17.62% of Tailings to SA__subline_0
+
+ - 0.7389750000000005 with 41.75% of Arqads__subline_0
+ - 0.0 with 0.0% of Titanium Tetrachloride__subline_0
+ - 37.73017050351358 with 34.94% of Old Filtration Media__subline_0
+ - 255.43793092349864 with 41.47% of Silicon Wafer__subline_1
+
+
+
+ ==== COAL GAS
+
+ + 0.0 from FAUCET
+ + 688.281950760718 with 27.53% of UNTRACKED__subline_6
+
+ - 688.2819507607179 with 31.57% of Unnamed Aluminium Plate__subline_0
+
+
+
+ ==== COBALT EXTRACT
+
+ + 0.0 from FAUCET
+ + 10.10407101844551 with 28.87% of Rare-earth Cobalt Extract__subline_0
+ + 0.0 with 0.0% of Rare Earth Oxides__subline_1
+
+ - 4.923697223278814 with 45.59% of Complex Circuit Board__subline_3
+ - 0.28 with 100.0% of Py2__subline_0
+ - 1.2044506604506604 with 19.58% of Stainless Steel__subline_0
+ - 3.6959231347160335 with 35.2% of Aramid and Kevlar__subline_0
+
+
+
+ ==== COKE
+
+ + 0.0 from FAUCET
+ + 131.47605290884505 with 55.24% of Unnamed [[Zinc Plates__subline_0
+ + 0.0 with 0.0% of Red Hot Coke Plant__subline_1
+ + 67.22764055383242 with 11.45% of Crude Oil Refining__subline_0
+ + 0.0 with 0.0% of __SYN_BEEG ZI STONE__SUBLINE_0::COKE::CONVERSION
+ + 0.0 with 0.0% of Beeg ZI Stone v2__subline_0
+ + 484.5760146060142 with 35.89% of Coke Mini Spires__subline_0
+ + 1350.0 with 100.0% of Coke Mini Spires__subline_1
+ + 1350.0 with 100.0% of Coke Mini Spires__subline_2
+ + 0.0 with 0.0% of Exploiting Coal__subline_0
+
+ - 8.352206215382248 with 5.57% of Mall Lead Mining__subline_1
+ - 2000.0 with 100.0% of CHEATS__subline_1
+ - 58.21275917065391 with 23.1% of Complex Circuit Board__subline_1
+ - 0.38296121933621935 with 6.38% of Ceramic LT_001__subline_0
+ - 0.7783369484316852 with 21.62% of Cermet__subline_0
+ - 10.412066721517352 with 8.98% of Molten Nickel__subline_0
+ - 8.12733170203228 with 45.15% of Aluminium Pulp 120__subline_0
+ - 11.0966621587362 with 79.83% of Ethylene Glycol & Ethylene__subline_0
+ - 210.7109759322007 with 72.16% of Mass Auog for Brains__subline_2
+ - 29.895504205232243 with 23.17% of Green SIC__subline_0
+ - 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+ - 56.83061978758221 with 31.57% of Unnamed Aluminium Plate__subline_0
+ - 27.27272727272727 with 5.45% of Sodium Carbonate__subline_0
+ - 0.0453030303030303 with 19.7% of Phosporus Pentasulfide__subline_0
+ - 52.79208666062782 with 13.04% of New Bigger Better Battery__subline_0
+ - 9.434355759368668 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 0.0 with 0.0% of Unnamed Iron Plates__subline_0
+ - 121.9455733538246 with 6.77% of Acetylene__subline_0
+ - 130.78190342999503 with 32.7% of Iron Plate Casting #2__subline_0
+ - 0.5144627826770651 with 17.62% of Tailings to SA__subline_0
+ - 5.040842009907806 with 50.41% of Rare Earth Oxides__subline_0
+ - 64.6640025077433 with 81.65% of Antimony Pulp 2__subline_0
+ - 4.898666666666667 with 54.43% of Zipir Egg__subline_0
+ - 71.245309787585 with 8.91% of Antimony Oxide__subline_0
+ - 0.44 with 100.0% of Py2__subline_0
+ - 23.234328544351246 with 23.88% of Meat Decomposition__subline_0
+ - 5.460061493339135 with 5.46% of Mall Nexelit Plate__subline_0
+ - 51.926020261681906 with 23.08% of Sodium Hydroxide__subline_0
+ - 0.5670916105146503 with 11.81% of Long Tail Block__subline_5
+ - 189.98439461255992 with 19.69% of Copper Melting__subline_0
+ - 68.3501269101269 with 19.58% of Stainless Steel__subline_0
+ - 1.0646783353535347 with 41.59% of Aramid and Kevlar__subline_2
+ - 44.08478208968265 with 14.69% of Molten Chromium__subline_0
+ - 92.47184837003279 with 41.47% of Silicon Wafer__subline_1
+ - 22.26171851851852 with 54.43% of Zipir Egg__subline_0
+
+
+
+ ==== COMPLEX CIRCUIT BOARD
+
+ + 0.0 from FAUCET
+ + 3.7272727272727275 with 20.71% of Complex Circuit Board__subline_0
+
+ - 3.0 with 100.0% of Meta__subline_1
+ - 0.7272727272727271 with 96.97% of Chemical Science__subline_0
+
+
+
+ ==== CONDENSATES
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_UNNAMED NATURAL GAS__SUBLINE_0::CONDENSATES::CONVERSION
+
+
+
+
+ ==== COPPER
+
+ + 0.0 from FAUCET
+
+ - 0.0 with 0.0% of New Acetone__subline_0
+
+
+
+ ==== COPPER GRADE 4
+
+ + 0.0 from FAUCET
+ + 140.56876451126195 with 18.11% of Copper Mine w Crushing__subline_0
+
+ - 140.56876451126195 with 19.69% of Copper Melting__subline_0
+
+
+
+ ==== COPPER ORE
+
+ + 0.0 from FAUCET
+ + 334.7231633608925 with 11.16% of Raw Ore Mining__subline_1
+
+ - 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+ - 0.0 with 0.0% of T.I.T.S. 2__subline_0
+ - 90.87304642263207 with 48.34% of Unnamed Moondrops__subline_0
+ - 80.83256814756407 with 28.87% of Rare-earth Cobalt Extract__subline_0
+ - 0.0 with 0.0% of Rare Earth Oxides__subline_1
+ - 163.01754879069637 with 25.27% of Fertilizer Methane__subline_0
+
+
+
+ ==== COPPER ORE (?
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of P.E.E.P.E.E.: Previous Enterprise Establishment Posthumously Exploited Endlessly__subline_0
+
+
+
+
+ ==== COPPER PLATE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+ + 0.0 with 0.0% of T.I.T.S. 2__subline_0
+ + 36.77249896364198 with 18.11% of Copper Mine w Crushing__subline_0
+ + 714.449129244914 with 26.46% of CASTING MEGA-BLOCK__subline_1
+
+ - 400.0 with 100.0% of Meta__subline_1
+ - 71.80272727272727 with 99.73% of Unnamed Automation Science__subline_0
+ - 8.327784848484848 with 19.97% of Optical Fiber__subline_0
+ - 4.928282828282828 with 20.71% of Complex Circuit Board__subline_7
+ - 3.2999132837812093 with 45.64% of Complex Circuit Board__subline_8
+ - 50.12957251082251 with 26.38% of Complex Circuit Board__subline_9
+ - 2.156641414141414 with 3.59% of Melamine Resin]] -- Mall__subline_1
+ - 12.492388315853685 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 23.241702291223145 with 27.12% of Dedicated Sulfuric Acid__subline_0
+ - 3.206769907167475 with 11.45% of Crude Oil Refining__subline_0
+ - 27.2 with 100.0% of Py2__subline_0
+ - 0.6600000000000004 with 1.83% of Mall Intermetallics__subline_4
+ - 109.60944477683556 with 55.08% of Long Tail Block__subline_0
+ - 7.0020626954937635 with 9.34% of Long Tail Block__subline_4
+ - 2.408901320901321 with 19.58% of Stainless Steel__subline_0
+ - 21.152244516962345 with 35.25% of Organic Solvent and Acetone__subline_2
+ - 3.6031922258787925 with 9.01% of Organic Solvent and Acetone__subline_3
+
+
+
+ ==== COTTONGUT
+
+ + 0.0 from FAUCET
+ + 13.169999999999996 with 96.48% of Unnamed Cottonguts__subline_0
+
+ - 7.98 with 60.0% of Unnamed Logistic Science__subline_0
+ - 5.19 with 100.0% of Py2__subline_0
+
+
+
+ ==== CREOSOTE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_UNNAMED RUBBER]] + ORGANIC SOLVENT__SUBLINE_0::CREOSOTE::CONVERSION
+ + 640.1023282504167 with 10.81% of __SYN_BEEG ZI STONE__SUBLINE_0::CREOSOTE::CONVERSION
+ + 0.0 with 0.0% of __SYN_TAR CRACKING__SUBLINE_0::CREOSOTE::CONVERSION
+
+ - 141.81607176890196 with 15.76% of Fiberboard]] LT_001__subline_0
+ - 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+ - 371.3369450559556 with 30.94% of Unnamed Sand Casting__subline_0
+ - 23.42322809222566 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 5.552750000000004 with 41.75% of Arqads__subline_0
+ - 97.97333333333334 with 54.43% of Zipir Egg__subline_0
+
+
+
+ ==== CRUDE OIL
+
+ + 0.0 from FAUCET
+ + 755.8814781180477 with 11.45% of Crude Oil Tapping__subline_0
+
+ - 755.8814781180477 with 11.45% of Crude Oil Refining__subline_0
+
+
+
+ ==== CRUSHED OIL SANDS
+
+ + 0.0 from FAUCET
+ + 17.408179496052007 with 8.7% of Beginner Oil Sand Mine__subline_0
+
+ - 17.408179496052007 with 11.45% of Crude Oil Refining__subline_0
+
+
+
+ ==== CRUSHED QUARTZ
+
+ + 0.0 from FAUCET
+ + 180.0 with 100.0% of Starter Quartz Mine__subline_0
+ + 100.57395280613271 with 20.11% of Quartz Mine 2__subline_0
+ + 0.0 with 0.0% of Quartz Mine 3__subline_0
+
+ - 2.7759282828282825 with 19.97% of Optical Fiber__subline_0
+ - 11.123908541481764 with 23.17% of Green SIC__subline_0
+ - 242.16700280393505 with 80.72% of Unnamed Molten Glass__subline_0
+ - 0.0 with 0.0% of Unnamed Molten Glass__subline_1
+ - 24.507113177887614 with 41.47% of Silicon Wafer__subline_1
+
+
+
+ ==== CYANIC ACID
+
+ + 0.0 from FAUCET
+ + 252.04210049539026 with 28.0% of Urea Decomposition__subline_0
+ + 716.3718975647867 with 23.88% of Meat Decomposition__subline_0
+
+ - 211.16834664251127 with 13.04% of New Bigger Better Battery__subline_0
+ - 505.2035509222755 with 28.87% of Rare-earth Cobalt Extract__subline_0
+ - 252.0421004953903 with 50.41% of Rare Earth Oxides__subline_0
+
+
+
+ ==== DIODES
+
+ + 0.0 from FAUCET
+ + 2.0334343434343434 with 20.71% of Complex Circuit Board__subline_5
+
+ - 2.0334343434343434 with 20.71% of Complex Circuit Board__subline_0
+
+
+
+ ==== DNA POLYMERASE
+
+ + 0.0 from FAUCET
+
+ - 0.0 with 0.0% of Good Alien Sample__subline_0
+
+
+
+ ==== DRILL HEAD
+
+ + 0.0 from FAUCET
+ + 6.593936744530833 with 10.99% of Some Mall Builds That Are Exported (very incomplete lol)__subline_1
+
+ - 0.0 with 0.0% of Shitty Outputted Molybdenum Ore Thingy__subline_0
+ - 0.9552469793563361 with 48.49% of Phosphate Rock Mining__subline_0
+ - 0.0 with 0.0% of Phosphate Rock Mining__subline_1
+ - 0.0 with 0.0% of Phosphate Rock Mining__subline_2
+ - 2.4869783099035456 with 23.03% of Molybdenum Plate__subline_0
+ - 3.1517114552709504 with 47.75% of Niobium Plate__subline_1
+
+
+
+ ==== DURALUMIN
+
+ + 0.0 from FAUCET
+ + 6.355252525252527 with 10.59% of D.I.C.K: Duralumin Is Considered Key__subline_0
+
+ - 5.33 with 100.0% of Py2__subline_0
+ - 0.6600000000000004 with 1.83% of Mall Intermetallics__subline_4
+ - 0.36525252525252516 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+
+
+
+ ==== ELECTROLYTIC CAPACITORS
+
+ + 0.0 from FAUCET
+ + 9.395959595959596 with 41.95% of Complex Circuit Board__subline_2
+
+ - 6.0 with 100.0% of Meta__subline_1
+ - 3.395959595959596 with 20.71% of Complex Circuit Board__subline_0
+
+
+
+ ==== ETCHING SOLUTION
+
+ + 0.0 from FAUCET
+ + 123.99880854872661 with 51.67% of Etching Solution]] -- LT_001__subline_0
+
+ - 16.522387395972306 with 45.64% of Complex Circuit Board__subline_8
+ - 35.92444583763517 with 70.58% of Silicon Wafer Doping__subline_0
+ - 35.775987657559575 with 34.07% of Silicon Wafer Doping__subline_1
+ - 35.775987657559575 with 34.07% of Silicon Wafer Doping__subline_2
+
+
+
+ ==== ETHANOL
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Ethanol__subline_0
+
+ - 0.0 with 0.0% of Nuclear Research__subline_0
+
+
+
+ ==== ETHYLENE
+
+ + 0.0 from FAUCET
+ + 350.0311207613352 with 70.01% of __SYN_ETHYLENE GLYCOL & ETHYLENE__SUBLINE_0::ETHYLENE::CONVERSION
+
+ - 350.0311207613352 with 23.34% of Rubber 3__subline_0
+
+
+
+ ==== ETHYLENE GLYCOL
+
+ + 0.0 from FAUCET
+ + 359.2444583763518 with 79.83% of Ethylene Glycol & Ethylene__subline_0
+
+ - 359.2444583763517 with 81.65% of Antimony Pulp 2__subline_0
+
+
+
+ ==== FATTY ACID
+
+ + 0.0 from FAUCET
+
+ - 0.0 with 0.0% of Fatty Acids tied to Oleochemicals__subline_0
+
+
+
+ ==== FATTY ACIDS
+
+ + 0.0 from FAUCET
+ + 318.8945263295556 with 39.86% of Organic Acid + Fatty Acid__subline_0
+
+ - 227.9854354204647 with 76.0% of Vatbrain Cartridge Mk2__subline_0
+ - 90.9090909090909 with 22.73% of Organic Acid + Fatty Acid__subline_1
+
+
+
+ ==== FERRITE
+
+ + 0.0 from FAUCET
+ + 4.928282828282828 with 9.96% of Ferrite -- LT_001__subline_0
+
+ - 4.928282828282828 with 20.71% of Complex Circuit Board__subline_7
+
+
+
+ ==== FERTILIZER
+
+ + 0.0 from FAUCET
+ + 69.94543567130108 with 13.99% of Fertilizer__subline_0
+
+ - 8.45173998652612 with 33.81% of Navens__subline_0
+ - 0.9512727272727273 with 4.36% of Raw Fiber From Kicalk__subline_0
+ - 31.45092295750224 with 20.97% of Ralesia 2__subline_0
+ - 7.41 with 100.0% of Py2__subline_0
+ - 21.6815 with 70.17% of Py2 new__subline_0
+
+
+
+ ==== FIBERBOARD
+
+ + 0.0 from FAUCET
+ + 6.618083349215425 with 15.76% of Fiberboard]] LT_001__subline_0
+
+ - 6.618083349215426 with 45.64% of Complex Circuit Board__subline_8
+
+
+
+ ==== FILTRATION MEDIA
+
+ + 0.0 from FAUCET
+ + 10.48060291764266 with 34.94% of Old Filtration Media__subline_0
+
+ - 5.48765409675873 with 31.18% of Mega-ish F-ish Oil__subline_0
+ - 0.0 with 0.0% of Ethanol__subline_0
+ - 0.0 with 0.0% of Shitty Outputted Molybdenum Ore Thingy__subline_0
+ - 2.6021161946213023 with 23.03% of Molybdenum Plate__subline_0
+ - 0.7272727272727272 with 24.24% of SAMM__subline_0
+ - 1.6635598989898988 with 20.79% of Photophore__subline_0
+
+
+
+ ==== FISH
+
+ + 0.0 from FAUCET
+ + 40.15843859398148 with 33.75% of Fisk__subline_0
+
+ - 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+ - 4.082222222222223 with 54.43% of Zipir Egg__subline_0
+ - 15.66510526064815 with 33.4% of Milk__subline_0
+ - 20.411111111111115 with 54.43% of Zipir Egg__subline_0
+
+
+
+ ==== FISH OIL
+
+ + 0.0 from FAUCET
+ + 685.9567620948412 with 31.18% of Mega-ish F-ish Oil__subline_0
+
+ - 89.81111459408793 with 81.65% of Antimony Pulp 2__subline_0
+ - 72.8143485462963 with 33.4% of Milk__subline_0
+ - 4.44 with 100.0% of Py2__subline_0
+ - 518.8912989544568 with 21.62% of Lube__subline_0
+
+
+
+ ==== FLUE GAS
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_CRUDE OIL REFINING__SUBLINE_0::FLUE GAS::CONVERSION
+ + 0.0 with 0.0% of __SYN_SILICON WAFER__SUBLINE_1::FLUE GAS::CONVERSION
+
+
+
+
+ ==== FORMAMIDE
+
+ + 0.0 from FAUCET
+
+ - 0.0 with 0.0% of Good Alien Sample__subline_0
+
+
+
+ ==== FORMIC ACID
+
+ + 0.0 from FAUCET
+ + 598.06875 with 24.92% of Vrauk + Vrauk Slaughter__subline_0
+ + 1502.1179745680115 with 16.69% of New Vrauk Slaughter__subline_0
+
+ - 0.0 with 0.0% of Unnamed Rubber]] + Organic Solvent__subline_0
+ - 2100.186724568011 with 23.34% of Rubber 3__subline_0
+
+
+
+ ==== GASOLINE
+
+ + 0.0 from FAUCET
+ + 202.02606738714604 with 44.89% of __SYN_TAR CRACKING__SUBLINE_0::GASOLINE::CONVERSION
+
+ - 106.88000000000007 with 35.63% of Unnamed Natural Gas__subline_0
+ - 2.22 with 100.0% of Py2__subline_0
+ - 92.92606738714599 with 35.2% of Aramid and Kevlar__subline_0
+
+
+
+ ==== GEOTHERMAL WATER
+
+ + 0.0 from FAUCET
+ + 90.9090909090909 with 0.55% of Geothermal Water__subline_0
+
+ - 90.9090909090909 with 22.73% of Organic Acid + Fatty Acid__subline_1
+
+
+
+ ==== GLASS
+
+ + 0.0 from FAUCET
+ + 135.79456956525618 with 48.5% of Mall Glass__subline_0
+ + 0.0 with 0.0% of Mall Glass__subline_1
+
+ - 4.15390707070707 with 19.97% of Optical Fiber__subline_0
+ - 9.119417416818589 with 76.0% of Vatbrain Cartridge Mk2__subline_0
+ - 4.389057239057239 with 23.1% of Complex Circuit Board__subline_1
+ - 7.0389448880837096 with 13.04% of New Bigger Better Battery__subline_0
+ - 3.9038713487042767 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 6.67 with 100.0% of Py2__subline_0
+ - 87.57739557546158 with 55.08% of Long Tail Block__subline_0
+ - 12.576723501171191 with 34.94% of Old Filtration Media__subline_0
+ - 0.36525252525252516 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+
+
+
+ ==== GLASSWARE
+
+ + 0.0 from FAUCET
+ + 61.12031680842982 with 67.91% of Unnamed Glassworks__subline_1
+
+ - 24.0 with 100.0% of Unnamed Py1__subline_0
+ - 8.283470820276886 with 76.0% of Vatbrain Cartridge Mk2__subline_0
+ - 8.11 with 100.0% of Py2__subline_0
+ - 3.185179321486269 with 56.58% of Long Tail Block__subline_2
+ - 17.541666666666668 with 70.17% of Py2 new__subline_0
+ - 0.0 with 0.0% of Good Alien Sample__subline_0
+
+
+
+ ==== GOOD ALIEN SAMPLE
+
+ + 0.9753166666666666 from FAUCET
+ + 0.0 with 0.0% of Good Alien Sample__subline_0
+
+ - 0.9753166666666666 with 70.17% of Py2 new__subline_0
+
+
+
+ ==== GRAVEL
+
+ + 0.0 from FAUCET
+ + 15.43858169052573 with 8.98% of Molten Nickel__subline_0
+ + 0.0 with 0.0% of Iron Ore Dust Mine__subline_0
+ + 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+ + 0.0 with 0.0% of T.I.T.S. 2__subline_0
+ + 2.8867371650008566 with 17.82% of Titanium Plate__subline_0
+ + 47.49629320386366 with 35.71% of Home Iron Mine__subline_0
+ + 0.0 with 0.0% of Rare Earth Oxides__subline_1
+ + 0.0 with 0.0% of Shitty Outputted Molybdenum Ore Thingy__subline_0
+ + 37.93812746188901 with 8.91% of Antimony Oxide__subline_0
+ + 163.03078358264915 with 18.11% of Copper Mine w Crushing__subline_0
+ + 0.0 with 0.0% of __SYN_MOLYBDENUM PLATE__SUBLINE_0::GRAVEL::CONVERSION
+ + 8.404563880722534 with 47.75% of Niobium Plate__subline_1
+ + 1.6314569200887963 with 31.99% of Chromium & Chromite Sand__subline_0
+ + 0.0 with 0.0% of Chromite Sand__subline_0
+ + 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::GRAVEL::CONVERSION
+
+ - 204.39871729292148 with 5.68% of Stone Byproduct to Landfill station!__subline_2
+ - 16.32888888888889 with 54.43% of Zipir Egg__subline_0
+ - 52.403014588213296 with 34.94% of Old Filtration Media__subline_0
+ - 3.6959231347160335 with 35.2% of Aramid and Kevlar__subline_0
+
+
+
+ ==== GREASE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Simple Additives__subline_0
+
+
+
+
+ ==== GREEN SIC
+
+ + 0.0 from FAUCET
+ + 5.561954270740882 with 23.17% of Green SIC__subline_0
+
+ - 5.561954270740881 with 45.59% of Complex Circuit Board__subline_3
+
+
+
+ ==== GUTS
+
+ + 0.0 from FAUCET
+ + 302.5153246277216 with 56.02% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::GUTS::CONVERSION
+ + 0.0 with 0.0% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::GUTS::CONVERSION
+ + 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::GUTS::CONVERSION
+ + 5.9806875 with 24.92% of Vrauk + Vrauk Slaughter__subline_0
+ + 0.0 with 0.0% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::GUTS::CONVERSION
+ + 7.385000000000001 with 30.77% of Auog Slaughter__subline_0
+ + 3.414999999999999 with 56.92% of Unnamed Ulric Rendering__subline_0
+ + 1.670000000000001 with 41.75% of Arqads__subline_0
+ + 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::GUTS::CONVERSION
+
+ - 0.0 with 0.0% of B.A.L.L.S Burning__subline_6
+ - 7.199999999999999 with 60.0% of Unnamed Logistic Science__subline_0
+ - 124.63203802985404 with 76.0% of Vatbrain Cartridge Mk2__subline_0
+ - 11.974815279211727 with 79.83% of Ethylene Glycol & Ethylene__subline_0
+ - 48.746326999999994 with 4.06% of Hydrogen Chloride from Excess Guts__subline_0
+ - 13.199653135124834 with 13.2% of Bakelite__subline_0
+ - 8.45173998652612 with 33.81% of Navens__subline_0
+ - 16.7 with 100.0% of Py2__subline_0
+ - 1.7721612828582822 with 11.81% of Long Tail Block__subline_5
+ - 0.0 with 0.0% of Titanium Tetrachloride__subline_0
+ - 55.871248525257755 with 47.75% of Niobium Plate__subline_1
+ - 29.09090909090909 with 24.24% of SAMM__subline_0
+ - 3.327119797979796 with 41.59% of Aramid and Kevlar__subline_2
+
+
+
+ ==== HEAVILY N-DOPED SILICON
+
+ + 0.0 from FAUCET
+ + 19.761974134651958 with 70.58% of Silicon Wafer Doping__subline_0
+
+ - 9.89298423566206 with 45.59% of Complex Circuit Board__subline_3
+ - 1.8491414141414142 with 20.71% of Complex Circuit Board__subline_4
+ - 1.8491414141414142 with 20.71% of Complex Circuit Board__subline_5
+ - 6.170707070707071 with 20.71% of Complex Circuit Board__subline_6
+
+
+
+ ==== HEAVY OIL
+
+ + 0.0 from FAUCET
+ + 143.98047094572175 with 1.35% of __SYN_CRUDE OIL REFINING__SUBLINE_0::HEAVY OIL::CONVERSION
+
+ - 143.98047094572175 with 17.82% of Titanium Plate__subline_0
+
+
+
+ ==== HOT AIR
+
+ + 0.0 from FAUCET
+ + 6261.903732448286 with 0.0% of CHEATS__subline_0
+
+ - 969.9612111804014 with 48.5% of Mall Glass__subline_0
+ - 69.98253216695885 with 7.0% of Mall Glass__subline_2
+ - 20.76953535353535 with 19.97% of Optical Fiber__subline_0
+ - 637.7890526591112 with 39.86% of Organic Acid + Fatty Acid__subline_0
+ - 1235.2348729303797 with 41.17% of Unnamed Glassworks__subline_0
+ - 1018.6719468071636 with 67.91% of Unnamed Glassworks__subline_1
+ - 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+ - 0.0 with 0.0% of T.I.T.S. 2__subline_0
+ - 65.73802645442252 with 55.24% of Unnamed [[Zinc Plates__subline_0
+ - 106.91619129632804 with 17.82% of Titanium Plate__subline_0
+ - 0.0 with 0.0% of Unnamed Iron Plates__subline_0
+ - 653.9095171499752 with 32.7% of Iron Plate Casting #2__subline_0
+ - 70.4 with 100.0% of Py2__subline_0
+ - 64.0880658548568 with 8.98% of CASTING MEGA-BLOCK__subline_0
+ - 476.2994194966094 with 26.46% of CASTING MEGA-BLOCK__subline_1
+ - 206.46111469758856 with 14.64% of CASTING MEGA-BLOCK__subline_2
+ - 39.9192222231993 with 5.59% of CASTING MEGA-BLOCK__subline_4
+ - 82.16241969811279 with 11.51% of CASTING MEGA-BLOCK__subline_5
+ - 129.6452581921941 with 23.03% of Molybdenum Plate__subline_0
+ - 383.7951183672214 with 44.78% of Niobium Plate__subline_0
+ - 30.160227920227918 with 19.58% of Stainless Steel__subline_0
+
+
+
+ ==== HYDROFLUORIC ACID
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_PHOSPHOR PROCESSING__SUBLINE_0::HYDROFLUORIC ACID::CONVERSION
+
+
+
+
+ ==== HYDROGEN CHLORIDE
+
+ + 0.0 from FAUCET
+ + 243.73163499999998 with 4.06% of Hydrogen Chloride from Excess Guts__subline_0
+
+ - 243.73163499999998 with 29.26% of New Casein__subline_0
+
+
+
+ ==== HYDROGEN PEROXIDE
+
+ + 0.0 from FAUCET
+ + 220.95516537108472 with 20.09% of Hydrogen Peroxide]] -- LT_001__subline_0
+
+ - 41.33293618290887 with 51.67% of Etching Solution]] -- LT_001__subline_0
+ - 179.62222918817585 with 81.65% of Antimony Pulp 2__subline_0
+ - 0.0 with 0.0% of Nuclear Research__subline_0
+
+
+
+ ==== INCUBATED PETRI DISH
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Incubation Center__subline_0
+
+
+
+
+ ==== INDUSTRIAL SOLVENT
+
+ + 0.0 from FAUCET
+ + 36.36363636363636 with 6.06% of Ind. Solvent__subline_0
+
+ - 36.36363636363636 with 96.97% of Chemical Science__subline_0
+
+
+
+ ==== INTERMETALLICS
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Mall Intermetallics__subline_2
+
+
+
+
+ ==== IRON ORE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Rare Earth Oxides__subline_1
+
+
+
+
+ ==== IRON ORE DUST
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Iron Ore Dust Mine__subline_0
+
+ - 0.0 with 0.0% of Unnamed Iron Plates__subline_0
+ - 0.0 with 0.0% of Nuclear Research__subline_0
+
+
+
+ ==== IRON OXIDE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Unnamed Sand__subline_0
+ + 47.80492715775981 with 35.41% of __SYN_BEEG ZI STONE__SUBLINE_0::IRON OXIDE::CONVERSION
+ + 0.0 with 0.0% of Beeg ZI Stone v2__subline_0
+ + 0.0 with 0.0% of Rare Earth Oxides__subline_1
+ + 2.912152037567537 with 8.91% of Antimony Oxide__subline_0
+
+ - 0.0 with 0.0% of B.A.L.L.S Burning__subline_0
+ - 22.401285583103764 with 9.96% of Ferrite -- LT_001__subline_0
+ - 21.31517119699687 with 79.83% of Ethylene Glycol & Ethylene__subline_0
+ - 7.000622415226704 with 23.34% of Rubber 3__subline_0
+ - 0.0 with 0.0% of Anthraq__subline_0
+
+
+
+ ==== IRON PLATE
+
+ + 0.0 from FAUCET
+ + 980.8642757249627 with 32.7% of Iron Plate Casting #2__subline_0
+
+ - 500.0 with 100.0% of Meta__subline_1
+ - 263.27666666666664 with 99.73% of Unnamed Automation Science__subline_0
+ - 33.03343079922028 with 23.1% of Complex Circuit Board__subline_1
+ - 9.593821180795572 with 13.04% of New Bigger Better Battery__subline_0
+ - 5.855807023056415 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 39.44281587265351 with 55.24% of Unnamed [[Zinc Plates__subline_0
+ - 22.8 with 100.0% of Py2__subline_0
+ - 12.476699242424239 with 5.55% of Mall Intermetallics__subline_0
+ - 5.833625478040728 with 6.94% of Mall Intermetallics__subline_3
+ - 43.78869778773079 with 55.08% of Long Tail Block__subline_0
+ - 16.338146289485447 with 9.34% of Long Tail Block__subline_4
+ - 15.060529396529397 with 19.58% of Stainless Steel__subline_0
+ - 2.3741414141414134 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+ - 10.989894574218056 with 10.99% of Some Mall Builds That Are Exported (very incomplete lol)__subline_1
+
+
+
+ ==== IRON PLATES
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Unnamed Iron Plates__subline_0
+
+
+
+
+ ==== IRON-NEXELIT-ANTIMONY ALLOY
+
+ + 0.0 from FAUCET
+ + 1.6667501365830653 with 6.94% of Mall Intermetallics__subline_3
+
+ - 0.0 with 0.0% of Mall Intermetallics__subline_2
+ - 1.6667501365830655 with 25.92% of Long Tail Block__subline_3
+
+
+
+ ==== IRON-NIOBIUM ALLOY
+
+ + 0.0 from FAUCET
+ + 1.6635598989898985 with 5.55% of Mall Intermetallics__subline_0
+
+ - 1.6635598989898988 with 19.97% of Optical Fiber__subline_0
+
+
+
+ ==== KEVLAR
+
+ + 0.0 from FAUCET
+ + 1.663559898989898 with 41.59% of Aramid and Kevlar__subline_2
+
+ - 1.6635598989898988 with 19.97% of Optical Fiber__subline_0
+
+
+
+ ==== KICALK
+
+ + 0.0 from FAUCET
+ + 4.773864049583334 with 95.48% of UNTRACKED__subline_7
+
+ - 1.716 with 60.0% of Unnamed Logistic Science__subline_0
+ - 0.1419500000000001 with 41.75% of Arqads__subline_0
+ - 2.915914049583334 with 33.4% of Milk__subline_0
+
+
+
+ ==== KORLEX MILK
+
+ + 0.0 from FAUCET
+ + 360.73163500000004 with 33.4% of Milk__subline_0
+
+ - 243.73163499999998 with 29.26% of New Casein__subline_0
+ - 117.0 with 100.0% of Py2__subline_0
+ - 0.0 with 0.0% of Good Alien Sample__subline_0
+
+
+
+ ==== KW
+
+ + 0.0 from FAUCET
+ + 663.0228066557448 with 0.0% of Meta__subline_3
+
+ - 100.43416607776578 with 20.09% of Hydrogen Peroxide]] -- LT_001__subline_0
+ - 137.94867451045835 with 51.67% of Etching Solution]] -- LT_001__subline_0
+ - 189.53249999999994 with 56.92% of Unnamed Ulric Rendering__subline_0
+ - 78.73493333333339 with 35.63% of Unnamed Natural Gas__subline_0
+ - 0.0 with 0.0% of Rare Earth Oxides__subline_1
+ - 73.6517217903616 with 14.73% of Better Anthraq__subline_0
+ - 42.7253772365712 with 8.98% of CASTING MEGA-BLOCK__subline_0
+ - 39.9954337072546 with 9.01% of Organic Solvent and Acetone__subline_3
+
+
+
+ ==== LABORATORY INSTRUMENT
+
+ + 0.0 from FAUCET
+ + 0.9200000000000002 with 6.52% of Long Tail Block__subline_1
+
+ - 0.92 with 100.0% of Py2__subline_0
+
+
+
+ ==== LAMP
+
+ + 0.0 from FAUCET
+ + 39.65768856247317 with 55.08% of Long Tail Block__subline_0
+
+ - 10.476430548357575 with 31.18% of Mega-ish F-ish Oil__subline_0
+ - 0.18981818181818177 with 4.36% of Raw Fiber From Kicalk__subline_0
+ - 0.0 with 0.0% of (Unnamed) Urea__subline_0
+ - 0.0 with 0.0% of Ethanol__subline_0
+ - 23.183905305937206 with 33.75% of Fisk__subline_0
+ - 0.44 with 100.0% of Py2__subline_0
+ - 2.8909886914378036 with 56.58% of Long Tail Block__subline_2
+ - 0.25153447002342383 with 34.94% of Old Filtration Media__subline_0
+ - 2.2250113648989895 with 20.79% of Photophore__subline_0
+
+
+
+ ==== LARD
+
+ + 0.0 from FAUCET
+ + 3.466587236581775 with 0.96% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::LARD::CONVERSION
+ + 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::LARD::CONVERSION
+ + 4.923333333333334 with 30.77% of Auog Slaughter__subline_0
+ + 2.276666666666666 with 56.92% of Unnamed Ulric Rendering__subline_0
+ + 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::LARD::CONVERSION
+
+ - 0.0 with 0.0% of B.A.L.L.S Burning__subline_8
+ - 2.4 with 60.0% of Unnamed Logistic Science__subline_0
+ - 8.266587236581774 with 51.67% of Etching Solution]] -- LT_001__subline_0
+ - 0.0 with 0.0% of Oleochemicals__subline_0
+
+
+
+ ==== LEAD DUST
+
+ + 0.0 from FAUCET
+ + 6.681764972305799 with 6.49% of Mall Lead Mining__subline_0
+
+ - 6.681764972305799 with 5.57% of Mall Lead Mining__subline_1
+
+
+
+ ==== LEAD PLATE
+
+ + 0.0 from FAUCET
+ + 50.31834734016718 with 5.59% of CASTING MEGA-BLOCK__subline_4
+
+ - 10.77733375129055 with 81.65% of Antimony Pulp 2__subline_0
+ - 3.56 with 100.0% of Py2__subline_0
+ - 0.7272727272727273 with 3.64% of 600 Carbonyl Sulfide__subline_0
+ - 0.0 with 0.0% of Bigger Propene__subline_0
+ - 35.2537408616039 with 35.25% of Organic Solvent and Acetone__subline_2
+
+
+
+ ==== LEAD-ANTIMONY ALLOY
+
+ + 0.0 from FAUCET
+ + 7.038944888083708 with 11.73% of CASTING MEGA-BLOCK__subline_3
+
+ - 7.0389448880837096 with 13.04% of New Bigger Better Battery__subline_0
+
+
+
+ ==== LIGHTLY N-DOPED SILICON
+
+ + 0.0 from FAUCET
+ + 19.761974134651958 with 34.07% of Silicon Wafer Doping__subline_1
+
+ - 9.89298423566206 with 45.59% of Complex Circuit Board__subline_3
+ - 1.8491414141414142 with 20.71% of Complex Circuit Board__subline_4
+ - 1.8491414141414142 with 20.71% of Complex Circuit Board__subline_5
+ - 6.170707070707071 with 20.71% of Complex Circuit Board__subline_6
+
+
+
+ ==== LIGHTLY P-DOPED SILICON
+
+ + 0.0 from FAUCET
+ + 19.761974134651958 with 34.07% of Silicon Wafer Doping__subline_2
+
+ - 9.89298423566206 with 45.59% of Complex Circuit Board__subline_3
+ - 1.8491414141414142 with 20.71% of Complex Circuit Board__subline_4
+ - 1.8491414141414142 with 20.71% of Complex Circuit Board__subline_5
+ - 6.170707070707071 with 20.71% of Complex Circuit Board__subline_6
+
+
+
+ ==== LIMESTONE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Unnamed Sand__subline_0
+
+
+
+
+ ==== LOG
+
+ + 0.0 from FAUCET
+ + 213.9534247265066 with 50.94% of Unnamed Log__subline_0
+
+ - 41.087116161616166 with 99.73% of Unnamed Automation Science__subline_0
+ - 1.6019999999999999 with 60.0% of Unnamed Logistic Science__subline_0
+ - 57.6 with 100.0% of Unnamed Py1__subline_0
+ - 4.774474416219699 with 15.76% of Fiberboard]] LT_001__subline_0
+ - 18.04146124783121 with 37.9% of Phenol]] (mall)__subline_0
+ - 0.628303489231942 with 13.2% of Bakelite__subline_0
+ - 0.4394904792993582 with 33.81% of Navens__subline_0
+ - 0.0 with 0.0% of (Unnamed) Urea__subline_0
+ - 0.7872807219886957 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 3.1166283335263167 with 81.8% of Unnamed Ulrics__subline_0
+ - 10.548137500000005 with 32.36% of Vrauk + Vrauk Slaughter__subline_1
+ - 4.119846153846152 with 96.48% of Unnamed Cottonguts__subline_0
+ - 0.0 with 0.0% of Ethanol__subline_0
+ - 4.658366015708652 with 13.99% of Fertilizer__subline_0
+ - 2.5748645922023417 with 33.75% of Fisk__subline_0
+ - 10.3 with 100.0% of Py2__subline_0
+ - 2.7552084006462043 with 56.58% of Long Tail Block__subline_2
+ - 15.965451777875652 with 34.94% of Old Filtration Media__subline_0
+ - 7.07012957070707 with 20.79% of Photophore__subline_0
+ - 17.780665865807112 with 35.78% of Phosphor Processing__subline_0
+ - 10.104000000000001 with 70.17% of Py2 new__subline_0
+
+
+
+ ==== LOGISTIC SCIENCE PACK
+
+ + 0.0 from FAUCET
+ + 14.399999999999999 with 60.0% of Unnamed Logistic Science__subline_0
+
+ - 14.4 with 100.0% of Meta__subline_0
+
+
+
+ ==== LOW DISTILLATES
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Wasteful Low Distillates__subline_0
+
+ - 0.0 with 0.0% of Simple Additives__subline_0
+
+
+
+ ==== LUBRICANT
+
+ + 0.0 from FAUCET
+ + 518.8912989544568 with 21.62% of Lube__subline_0
+
+ - 518.8912989544568 with 21.62% of Cermet__subline_0
+ - 0.0 with 0.0% of Simple Additives__subline_0
+
+
+
+ ==== MANURE
+
+ + 0.0 from FAUCET
+ + 13.580296867209777 with 6.79% of P.O.O.P.: Poop Obstructions Obstruct Parties__subline_0
+
+ - 1.998 with 60.0% of Unnamed Logistic Science__subline_0
+ - 0.0 with 0.0% of (Unnamed) Urea__subline_0
+ - 5.14 with 100.0% of Tuuphra__subline_0
+ - 5.14 with 100.0% of Tuuphra no2__subline_0
+ - 0.19 with 100.0% of Py2__subline_0
+ - 1.1122968672097777 with 35.2% of Aramid and Kevlar__subline_0
+
+
+
+ ==== MEAT
+
+ + 0.0 from FAUCET
+ + 160.0287369209464 with 11.11% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::MEAT::CONVERSION
+ + 0.0 with 0.0% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::MEAT::CONVERSION
+ + 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::MEAT::CONVERSION
+ + 5.9806875 with 24.92% of Vrauk + Vrauk Slaughter__subline_0
+ + 0.0 with 0.0% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::MEAT::CONVERSION
+ + 19.693333333333335 with 30.77% of Auog Slaughter__subline_0
+ + 4.553333333333332 with 56.92% of Unnamed Ulric Rendering__subline_0
+ + 1.670000000000001 with 41.75% of Arqads__subline_0
+ + 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::MEAT::CONVERSION
+
+ - 0.0 with 0.0% of B.A.L.L.S Burning__subline_5
+ - 16.8 with 60.0% of Unnamed Logistic Science__subline_0
+ - 7.281434854629631 with 33.4% of Milk__subline_0
+ - 143.27437951295732 with 23.88% of Meat Decomposition__subline_0
+ - 24.57027672002611 with 5.46% of Mall Nexelit Plate__subline_0
+
+
+
+ ==== MECHANICAL PARTS MK1
+
+ + 1.3142696969696968 from FAUCET
+ + 1.0 with 100.0% of UNTRACKED__subline_4
+
+ - 0.36363636363636354 with 96.97% of Chemical Science__subline_0
+ - 1.9506333333333332 with 70.17% of Py2 new__subline_0
+
+
+
+ ==== MEDIUM-POWER RESISTORS
+
+ + 0.0 from FAUCET
+ + 13.167171717171717 with 23.1% of Complex Circuit Board__subline_1
+
+ - 3.0 with 100.0% of Meta__subline_1
+ - 10.167171717171717 with 20.71% of Complex Circuit Board__subline_0
+
+
+
+ ==== MELAMINE
+
+ + 0.0 from FAUCET
+ + 8.626565656565656 with 3.59% of Melamine Resin]] -- Mall__subline_0
+
+ - 8.626565656565656 with 3.59% of Melamine Resin]] -- Mall__subline_1
+
+
+
+ ==== MELAMINE RESIN
+
+ + 0.0 from FAUCET
+ + 4.313282828282828 with 3.59% of Melamine Resin]] -- Mall__subline_1
+
+ - 1.8491414141414142 with 20.71% of Complex Circuit Board__subline_4
+ - 2.464141414141414 with 20.71% of Complex Circuit Board__subline_7
+
+
+
+ ==== META_TARGET_MALL
+
+ + 0.0 from FAUCET
+ + 1.0 with 100.0% of Meta__subline_1
+
+
+
+
+ ==== META_TARGET_PLANNED
+
+ + 0.0 from FAUCET
+ + 1.0 with 100.0% of Meta__subline_0
+
+
+
+
+ ==== META_TARGET_SCIENCE
+
+ + 0.0 from FAUCET
+ + 1.0 with 100.0% of Meta__subline_0
+
+
+
+
+ ==== METHANE
+
+ + 0.0 from FAUCET
+ + 12637.019286100493 with 25.27% of Fertilizer Methane__subline_0
+
+ - 581.9767267082408 with 48.5% of Mall Glass__subline_0
+ - 0.0 with 0.0% of Mall Glass__subline_1
+ - 41.98951930017531 with 7.0% of Mall Glass__subline_2
+ - 87.47169696969695 with 19.97% of Optical Fiber__subline_0
+ - 247.17322346269717 with 23.1% of Complex Circuit Board__subline_1
+ - 532.4801194156148 with 79.83% of Ethylene Glycol & Ethylene__subline_0
+ - 25.87969696969697 with 3.59% of Melamine Resin]] -- Mall__subline_1
+ - 3.95989594053745 with 13.2% of Bakelite__subline_0
+ - 1250.0 with 100.0% of Starter Quartz Mine__subline_1
+ - 926.4261546977848 with 41.17% of Unnamed Glassworks__subline_0
+ - 611.2031680842982 with 67.91% of Unnamed Glassworks__subline_1
+ - 15.888131313131316 with 10.59% of D.I.C.K: Duralumin Is Considered Key__subline_0
+ - 18.738582473780525 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 6054.175070098376 with 80.72% of Unnamed Molten Glass__subline_0
+ - 0.0 with 0.0% of Unnamed Molten Glass__subline_1
+ - 48.67430335648655 with 78.0% of Salt Mine__subline_0
+ - 0.0 with 0.0% of Salt Mine 2__subline_0
+ - 34.464918609744245 with 8.91% of Antimony Oxide__subline_0
+ - 33.27119797979797 with 5.55% of Mall Intermetallics__subline_0
+ - 284.98179427558097 with 38.0% of Mall Intermetallics__subline_1
+ - 208.34376707288314 with 6.94% of Mall Intermetallics__subline_3
+ - 27.500000000000014 with 1.83% of Mall Intermetallics__subline_4
+ - 175.97362220209268 with 11.73% of CASTING MEGA-BLOCK__subline_3
+ - 90.9090909090909 with 24.24% of SAMM__subline_0
+ - 173.3233877233877 with 19.58% of Stainless Steel__subline_0
+ - 76.4 with 100.0% of Sulfur Mine #1__subline_0
+ - 1085.8152185374004 with 35.25% of Organic Solvent and Acetone__subline_2
+
+
+
+ ==== METHANOL
+
+ + 0.0 from FAUCET
+ + 180.15961129393963 with 9.01% of Organic Solvent and Acetone__subline_3
+
+ - 0.5373821057637717 with 38.38% of Acetic Acid__subline_0
+ - 179.62222918817585 with 81.65% of Antimony Pulp 2__subline_0
+
+
+
+ ==== MIBC
+
+ + 0.0 from FAUCET
+ + 110.83645164386006 with 9.9% of __SYN_CRUDE OIL REFINING__SUBLINE_0::MIBC::CONVERSION
+
+ - 110.83645164386006 with 17.82% of Titanium Plate__subline_0
+
+
+
+ ==== MICROCHIPS
+
+ + 0.0 from FAUCET
+ + 2.0334343434343434 with 20.71% of Complex Circuit Board__subline_6
+
+ - 2.0334343434343434 with 20.71% of Complex Circuit Board__subline_0
+
+
+
+ ==== MICROFIBER
+
+ + 0.0 from FAUCET
+
+ - 0.0 with 0.0% of Good Alien Sample__subline_0
+
+
+
+ ==== MOLTEN ALUMINIUM
+
+ + 0.0 from FAUCET
+ + 31.776262626262632 with 10.59% of UNTRACKED__subline_8
+
+ - 31.776262626262632 with 10.59% of D.I.C.K: Duralumin Is Considered Key__subline_0
+
+
+
+ ==== MOLTEN CHROMIUM
+
+ + 0.0 from FAUCET
+ + 411.4579661703714 with 14.69% of Molten Chromium__subline_0
+
+ - 411.4579661703715 with 14.64% of CASTING MEGA-BLOCK__subline_2
+
+
+
+ ==== MOLTEN COPPER
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+ + 0.0 with 0.0% of T.I.T.S. 2__subline_0
+ + 984.3751016194814 with 19.69% of Copper Melting__subline_0
+
+ - 0.0 with 0.0% of CHEATS__subline_4
+ - 31.776262626262632 with 10.59% of D.I.C.K: Duralumin Is Considered Key__subline_0
+ - 952.5988389932188 with 26.46% of CASTING MEGA-BLOCK__subline_1
+
+
+
+ ==== MOLTEN GLASS
+
+ + 0.0 from FAUCET
+ + 750.0 with 100.0% of Starter Quartz Mine__subline_1
+ + 3632.5050420590255 with 80.72% of Unnamed Molten Glass__subline_0
+ + 0.0 with 0.0% of Unnamed Molten Glass__subline_1
+
+ - 969.9612111804014 with 48.5% of Mall Glass__subline_0
+ - 0.0 with 0.0% of Mall Glass__subline_1
+ - 139.9650643339177 with 7.0% of Mall Glass__subline_2
+ - 1235.2348729303797 with 41.17% of Unnamed Glassworks__subline_0
+ - 2037.3438936143273 with 67.91% of Unnamed Glassworks__subline_1
+
+
+
+ ==== MOLTEN LEAD
+
+ + 0.0 from FAUCET
+ + 150.33971187688047 with 5.57% of Mall Lead Mining__subline_1
+
+ - 70.38944888083708 with 11.73% of CASTING MEGA-BLOCK__subline_3
+ - 79.9502629960434 with 5.59% of CASTING MEGA-BLOCK__subline_4
+
+
+
+ ==== MOLTEN NICKEL
+
+ + 0.0 from FAUCET
+ + 128.3556501014639 with 8.98% of Molten Nickel__subline_0
+
+ - 128.3556501014639 with 8.98% of CASTING MEGA-BLOCK__subline_0
+
+
+
+ ==== MOLTEN TIN
+
+ + 0.0 from FAUCET
+ + 164.55498623011383 with 26.12% of UNTRACKED__subline_0
+
+ - 164.55498623011383 with 11.51% of CASTING MEGA-BLOCK__subline_5
+
+
+
+ ==== MOLYBDENUM ORE
+
+ + 0.0 from FAUCET
+ + 5.066011284643856 with 50.66% of Shitty Outputted Molybdenum Ore Thingy__subline_1
+
+ - 4.6700216905901115 with 21.62% of Cermet__subline_0
+ - 0.395989594053745 with 13.2% of Bakelite__subline_0
+
+
+
+ ==== MOLYBDENUM PLATE
+
+ + 0.0 from FAUCET
+ + 10.362409624598106 with 23.03% of Molybdenum Plate__subline_0
+
+ - 1.8181818181818181 with 24.24% of SAMM__subline_0
+ - 8.54422780641629 with 34.18% of Aramid and Kevlar__subline_1
+
+
+
+ ==== MOLYBDENUM TRIOXIDE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Shitty Outputted Molybdenum Ore Thingy__subline_0
+
+
+
+
+ ==== MOONDROP
+
+ + 0.0 from FAUCET
+ + 31.902239701562323 with 48.34% of Unnamed Moondrops__subline_0
+
+ - 22.191208791208783 with 96.48% of Unnamed Cottonguts__subline_0
+ - 9.711030910353534 with 20.79% of Photophore__subline_0
+
+
+
+ ==== MOSFET
+
+ + 0.0 from FAUCET
+ + 10.895959595959596 with 45.59% of Complex Circuit Board__subline_3
+
+ - 7.5 with 100.0% of Meta__subline_1
+ - 3.395959595959596 with 20.71% of Complex Circuit Board__subline_0
+
+
+
+ ==== MOSS
+
+ + 0.0 from FAUCET
+ + 786.4545320012904 with 75.26% of C.U.M. Creating Unbounded Moss__subline_0
+ + 0.0 with 0.0% of C.U.M. Creating Unbounded Moss]] Sibling!__subline_0
+
+ - 1.998 with 60.0% of Unnamed Logistic Science__subline_0
+ - 72.0 with 100.0% of Unnamed Py1__subline_0
+ - 24.716140298321793 with 6.79% of P.O.O.P.: Poop Obstructions Obstruct Parties__subline_0
+ - 64.71250000000003 with 32.36% of Vrauk + Vrauk Slaughter__subline_1
+ - 76.60801670296858 with 16.69% of New Vrauk Slaughter__subline_0
+ - 17.293208333333336 with 30.77% of Auog Slaughter__subline_0
+ - 139.0 with 100.0% of Py2__subline_0
+ - 390.12666666666667 with 70.17% of Py2 new__subline_0
+
+
+
+ ==== MW
+
+ + 0.0 from FAUCET
+ + 1118.927985849788 with 0.0% of Meta__subline_2
+
+ - 2.4651171742487414 with 6.49% of Mall Lead Mining__subline_0
+ - 0.6124951224613648 with 5.57% of Mall Lead Mining__subline_1
+ - 2.014465404040404 with 99.73% of Unnamed Automation Science__subline_0
+ - 1.6835306060606057 with 19.97% of Optical Fiber__subline_0
+ - 1.5978395061728399 with 0.8% of Literally Just Electricity Down the Drain__subline_0
+ - 22.2 with 100.0% of Unnamed Py1__subline_0
+ - 3.7323904336249525 with 78.25% of Plastic LT_001__subline_0
+ - 1.116970223063973 with 6.38% of Ceramic LT_001__subline_0
+ - 4.144180763913468 with 15.76% of Fiberboard]] LT_001__subline_0
+ - 4.965192066104808 with 37.9% of Phenol]] (mall)__subline_0
+ - 2.745799790300667 with 21.62% of Cermet__subline_0
+ - 5.277864829133792 with 11.73% of Nickel Ore Mining__subline_0
+ - 1.4689106742499718 with 79.83% of Ethylene Glycol & Ethylene__subline_0
+ - 0.0754824494949495 with 3.59% of Melamine Resin]] -- Mall__subline_1
+ - 0.0 with 0.0% of Incubation Center__subline_0
+ - 6.4370899999999995 with 29.26% of New Casein__subline_0
+ - 0.3249755133333333 with 4.06% of Hydrogen Chloride from Excess Guts__subline_0
+ - 2.7213007464937595 with 10.84% of 5k Boric Acid__subline_0
+ - 1.1819152825324375 with 23.17% of Green SIC__subline_0
+ - 1.2283019560314783 with 38.38% of Acetic Acid__subline_0
+ - 19.768026689460424 with 31.18% of Mega-ish F-ish Oil__subline_0
+ - 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+ - 0.0 with 0.0% of Iron Ore Dust Mine__subline_0
+ - 19.018357561365878 with 23.34% of Rubber 3__subline_0
+ - 0.0 with 0.0% of Unnamed Sand__subline_0
+ - 10.0 with 100.0% of Starter Quartz Mine__subline_0
+ - 105.94273114310461 with 33.87% of Unnamed Agar__subline_0
+ - 13.951635526918057 with 39.86% of Organic Acid + Fatty Acid__subline_0
+ - 7.704545454545454 with 22.73% of Organic Acid + Fatty Acid__subline_1
+ - 4.83439527229294 with 33.81% of Navens__subline_0
+ - 23.881207543320674 with 41.17% of Unnamed Glassworks__subline_0
+ - 1.0636363636363635 with 5.45% of Sodium Carbonate__subline_0
+ - 1.1818181818181817 with 19.7% of Phosporus Pentasulfide__subline_0
+ - 2.187272727272727 with 5.45% of Rayon__subline_0
+ - 0.9163636363636363 with 4.36% of Raw Fiber From Kicalk__subline_0
+ - 27.39420570798753 with 75.26% of C.U.M. Creating Unbounded Moss__subline_0
+ - 0.0 with 0.0% of C.U.M. Creating Unbounded Moss]] Sibling!__subline_0
+ - 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+ - 0.0 with 0.0% of T.I.T.S. 2__subline_0
+ - 3.4990756603219855 with 13.78% of Beginner Borax Mine w Washing__subline_0
+ - 0.8312405709364834 with 8.7% of Beginner Oil Sand Mine__subline_0
+ - 1.2134644762215445 with 60.67% of N.I.P.P.L.E.: Native Ingredients Produce Products Liked Extensively__subline_0
+ - 1.0524730072087576 with 6.79% of P.O.O.P.: Poop Obstructions Obstruct Parties__subline_0
+ - 2.589567994640503 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 4.5519440166759795 with 55.24% of Unnamed [[Zinc Plates__subline_0
+ - 3.2543807175575 with 27.12% of Dedicated Sulfuric Acid__subline_0
+ - 83.8 with 100.0% of Unnamed Ralesia__subline_0
+ - 7.967567149233901 with 20.97% of Ralesia 2__subline_0
+ - 0.0 with 0.0% of Red Hot Coke Plant__subline_1
+ - 5.0286976403066355 with 20.11% of Quartz Mine 2__subline_0
+ - 0.0 with 0.0% of Quartz Mine 3__subline_0
+ - 2.227420652006834 with 17.82% of Titanium Plate__subline_0
+ - 21.446283764252208 with 50.94% of Unnamed Log__subline_0
+ - 0.0 with 0.0% of Unnamed Iron Plates__subline_0
+ - 9.901012500000006 with 32.36% of Vrauk + Vrauk Slaughter__subline_1
+ - 5.975091498837201 with 16.69% of New Vrauk Slaughter__subline_0
+ - 3.319629496854114 with 6.77% of Acetylene__subline_0
+ - 0.0 with 0.0% of Simple Additives__subline_1
+ - 4.729985613072025 with 11.45% of Crude Oil Refining__subline_0
+ - 1.0769791666666668 with 30.77% of Auog Slaughter__subline_0
+ - 8.652274100878266 with 48.34% of Unnamed Moondrops__subline_0
+ - 23.252527472527465 with 96.48% of Unnamed Cottonguts__subline_0
+ - 59.281087758205764 with 35.71% of Home Iron Mine__subline_0
+ - 5.754403750919781 with 32.7% of Iron Plate Casting #2__subline_0
+ - 131.1887945990098 with 63.07% of Beeg ZI Stone__subline_0
+ - 0.0 with 0.0% of Beeg ZI Stone v2__subline_0
+ - 0.5285576534353409 with 17.62% of Tailings to SA__subline_0
+ - 10.165595802013783 with 25.41% of Tailings to SA__subline_1
+ - 1.0103862468680447 with 25.26% of Tailings to SA__subline_2
+ - 8.981111459408792 with 81.65% of Antimony Pulp 2__subline_0
+ - 0.0 with 0.0% of Ethanol__subline_0
+ - 0.0 with 0.0% of Anthraq__subline_0
+ - 14.946500000000007 with 41.75% of Arqads__subline_0
+ - 0.0 with 0.0% of Shitty Outputted Molybdenum Ore Thingy__subline_0
+ - 1.804592240319568 with 13.99% of Fertilizer__subline_0
+ - 7.17 with 100.0% of Tuuphra__subline_0
+ - 7.17 with 100.0% of Tuuphra no2__subline_0
+ - 25.984872031399778 with 33.75% of Fisk__subline_0
+ - 6.012193916666668 with 33.4% of Milk__subline_0
+ - 29.317884743753144 with 25.27% of Fertilizer Methane__subline_0
+ - 39.0 with 100.0% of Py2__subline_0
+ - 0.3822043045337395 with 5.46% of Mall Nexelit Plate__subline_0
+ - 0.4290909090909091 with 3.64% of 600 Carbonyl Sulfide__subline_0
+ - 1.6154761859189928 with 23.08% of Sodium Hydroxide__subline_0
+ - 0.01218181818181818 with 0.61% of Coal__subline_0
+ - 1.823152071413697 with 55.08% of Long Tail Block__subline_0
+ - 1.1315024232633282 with 56.58% of Long Tail Block__subline_2
+ - 0.37344334375966737 with 9.34% of Long Tail Block__subline_4
+ - 13.87573113603436 with 18.11% of Copper Mine w Crushing__subline_0
+ - 6.030279292874844 with 35.89% of Coke Mini Spires__subline_0
+ - 16.8 with 100.0% of Coke Mini Spires__subline_1
+ - 16.8 with 100.0% of Coke Mini Spires__subline_2
+ - 0.0 with 0.0% of Titanium Tetrachloride__subline_0
+ - 0.0 with 0.0% of Wasteful Low Distillates__subline_0
+ - 7.619063286534787 with 19.69% of Copper Melting__subline_0
+ - 6.282724809161142 with 51.08% of Tar to Benzene Through Tall Oil__subline_0
+ - 2.238916802982274 with 44.78% of Niobium Plate__subline_0
+ - 2.8651922320645005 with 47.75% of Niobium Plate__subline_1
+ - 0.9696969696969696 with 24.24% of SAMM__subline_0
+ - 1.5667650867650866 with 19.58% of Stainless Steel__subline_0
+ - 5.484848860232992 with 34.94% of Old Filtration Media__subline_0
+ - 16.51358257688365 with 55.05% of Rare Earth Bolide Mining__subline_0
+ - 0.0 with 0.0% of Rare Earth Bolide Mining__subline_1
+ - 0.0 with 0.0% of Rare Earth Bolide Mining__subline_2
+ - 3.519926794967651 with 35.2% of Aramid and Kevlar__subline_0
+ - 3.838722164914815 with 31.99% of Chromium & Chromite Sand__subline_0
+ - 0.0 with 0.0% of Bunch of other raw coal mining__subline_0
+ - 0.0 with 0.0% of Chromite Sand__subline_0
+ - 2.93898547264551 with 14.69% of Molten Chromium__subline_0
+ - 0.0 with 0.0% of Exploiting Coal__subline_0
+ - 0.0 with 0.0% of Exploiting Coal__subline_1
+ - 4.313780962402282 with 13.07% of Organic Solvent__subline_0
+ - 0.0 with 0.0% of Oleochemicals__subline_0
+ - 0.0 with 0.0% of Fatty Acids tied to Oleochemicals__subline_0
+ - 0.0 with 0.0% of New Acetone__subline_0
+ - 0.0 with 0.0% of Bigger Propene__subline_0
+ - 2.1540035666439987 with 35.25% of Organic Solvent and Acetone__subline_2
+ - 7.007746074494949 with 20.79% of Photophore__subline_0
+ - 21.729025914528595 with 44.89% of Tar Cracking__subline_0
+ - 17.887993828779788 with 35.78% of Phosphor Processing__subline_0
+ - 46.857932133693744 with 41.47% of Silicon Wafer__subline_1
+ - 0.10545454545454544 with 6.06% of Ind. Solvent__subline_0
+ - 0.0 with 0.0% of Nuclear Research__subline_0
+ - 3.878787878787878 with 96.97% of Chemical Science__subline_0
+ - 0.09131313131313129 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+ - 11.430222222222223 with 54.43% of Zipir Egg__subline_0
+ - 43.836625 with 58.45% of New Arqad Honey__subline_0
+ - 0.0 with 0.0% of Good Alien Sample__subline_0
+
+
+
+ ==== NAPHTA
+
+ + 0.0 from FAUCET
+
+ - 0.0 with 0.0% of Rare Earth Mining at Home__subline_0
+
+
+
+ ==== NAPHTHA
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_UNNAMED NATURAL GAS__SUBLINE_0::NAPHTHA::CONVERSION
+
+
+
+
+ ==== NAPHTHALENE OIL
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_TAR CRACKING__SUBLINE_0::NAPHTHALENE OIL::CONVERSION
+
+ - 0.0 with 0.0% of Anthraq__subline_0
+
+
+
+ ==== NATIVE FLORA
+
+ + 0.0 from FAUCET
+ + 728.0786857329267 with 60.67% of N.I.P.P.L.E.: Native Ingredients Produce Products Liked Extensively__subline_0
+ + 0.0 with 0.0% of Native Flora Mining__subline_0
+ + 0.0 with 0.0% of Native Flora Mining__subline_1
+
+ - 478.6848484848485 with 99.73% of Unnamed Automation Science__subline_0
+ - 9.18 with 60.0% of Unnamed Logistic Science__subline_0
+ - 14.966329354796535 with 31.18% of Mega-ish F-ish Oil__subline_0
+ - 49.36437911230754 with 6.79% of P.O.O.P.: Poop Obstructions Obstruct Parties__subline_0
+ - 13.0882029754386 with 81.8% of Unnamed Ulrics__subline_0
+ - 16.17812500000001 with 32.36% of Vrauk + Vrauk Slaughter__subline_1
+ - 56.41287504488754 with 16.69% of New Vrauk Slaughter__subline_0
+ - 32.063208333333336 with 30.77% of Auog Slaughter__subline_0
+ - 3.6407174273148155 with 33.4% of Milk__subline_0
+ - 54.5 with 100.0% of Py2__subline_0
+
+
+
+ ==== NATURAL GAS
+
+ + 0.0 from FAUCET
+ + 534.4000000000003 with 35.63% of Unnamed Natural Gas__subline_0
+
+ - 534.4000000000003 with 41.75% of Arqads__subline_0
+
+
+
+ ==== NAVENS
+
+ + 0.0 from FAUCET
+ + 11.832435981136566 with 33.81% of Navens__subline_0
+
+ - 4.559708708409294 with 76.0% of Vatbrain Cartridge Mk2__subline_0
+ - 7.2727272727272725 with 24.24% of SAMM__subline_0
+
+
+
+ ==== NEXELIT PLATE
+
+ + 0.0 from FAUCET
+ + 16.380184480017405 with 5.46% of Mall Nexelit Plate__subline_0
+
+ - 0.0 with 0.0% of Simple Additives__subline_1
+ - 0.53 with 100.0% of Py2__subline_0
+ - 1.6667501365830653 with 6.94% of Mall Intermetallics__subline_3
+ - 6.545454545454545 with 24.24% of SAMM__subline_0
+ - 7.272727272727272 with 96.97% of Chemical Science__subline_0
+ - 0.36525252525252516 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+
+
+
+ ==== NICHROME
+
+ + 0.0 from FAUCET
+ + 4.77792186375219 with 12.07% of Mall Intermetallics__subline_5
+
+ - 3.3601928374655645 with 9.96% of Ferrite -- LT_001__subline_0
+ - 1.4177290262866258 with 11.81% of Long Tail Block__subline_5
+
+
+
+ ==== NICKEL ORE
+
+ + 0.0 from FAUCET
+ + 190.9414209295514 with 11.73% of Nickel Ore Mining__subline_0
+
+ - 7.783369484316852 with 21.62% of Cermet__subline_0
+ - 102.32548329767053 with 8.98% of Molten Nickel__subline_0
+ - 80.83256814756407 with 28.87% of Rare-earth Cobalt Extract__subline_0
+ - 0.0 with 0.0% of Rare Earth Oxides__subline_1
+
+
+
+ ==== NICKEL PLATE
+
+ + 0.0 from FAUCET
+ + 80.78327628763462 with 8.98% of CASTING MEGA-BLOCK__subline_0
+
+ - 4.923697223278814 with 45.59% of Complex Circuit Board__subline_3
+ - 22.095516537108473 with 20.09% of Hydrogen Peroxide]] -- LT_001__subline_0
+ - 0.6600000000000004 with 1.83% of Mall Intermetallics__subline_4
+ - 43.435653306838084 with 12.07% of Mall Intermetallics__subline_5
+ - 3.6363636363636362 with 24.24% of SAMM__subline_0
+ - 6.0320455840455836 with 19.58% of Stainless Steel__subline_0
+
+
+
+ ==== NIOBIUM COMPLEX
+
+ + 0.0 from FAUCET
+ + 280.3113067036436 with 47.75% of Niobium Plate__subline_1
+
+ - 49.92676767676767 with 19.97% of Optical Fiber__subline_0
+ - 230.38453902687598 with 44.78% of Niobium Plate__subline_0
+
+
+
+ ==== NIOBIUM PLATE
+
+ + 0.0 from FAUCET
+ + 38.37951183672214 with 44.78% of Niobium Plate__subline_0
+
+ - 30.0 with 100.0% of Meta__subline_1
+ - 3.327119797979797 with 5.55% of Mall Intermetallics__subline_0
+ - 2.279854354204648 with 38.0% of Mall Intermetallics__subline_1
+ - 0.3636363636363636 with 24.24% of SAMM__subline_0
+ - 2.408901320901321 with 19.58% of Stainless Steel__subline_0
+
+
+
+ ==== NIOBIUM-ALUMINIUM-TITANIUM SPECIAL ALLOY
+
+ + 0.0 from FAUCET
+ + 4.559708708409296 with 38.0% of Mall Intermetallics__subline_1
+
+ - 4.559708708409294 with 76.0% of Vatbrain Cartridge Mk2__subline_0
+
+
+
+ ==== NYLON
+
+ + 0.0 from FAUCET
+ + 5.103824494631853 with 11.81% of Long Tail Block__subline_5
+
+ - 0.3706565656565657 with 20.71% of Complex Circuit Board__subline_4
+ - 1.3853030303030305 with 20.71% of Complex Circuit Board__subline_5
+ - 1.3190524744298333 with 45.64% of Complex Circuit Board__subline_8
+ - 1.663559898989898 with 41.59% of Aramid and Kevlar__subline_2
+ - 0.36525252525252516 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+
+
+
+ ==== OLEOCHEMICALS
+
+ + 0.0 from FAUCET
+ + 32.314500000000024 with 32.31% of UNTRACKED__subline_15
+ + 0.0 with 0.0% of Oleochemicals__subline_0
+ + 0.0 with 0.0% of Fatty Acids tied to Oleochemicals__subline_0
+
+ - 32.314500000000024 with 41.75% of Arqads__subline_0
+
+
+
+ ==== OPTICAL FIBER
+
+ + 0.0 from FAUCET
+ + 4.992676767676767 with 19.97% of Optical Fiber__subline_0
+
+ - 1.3563131313131314 with 20.71% of Complex Circuit Board__subline_0
+ - 3.636363636363636 with 96.97% of Chemical Science__subline_0
+
+
+
+ ==== OPTICAL SET
+
+ + 0.0 from FAUCET
+ + 5.5986025733567075 with 7.0% of Mall Glass__subline_2
+
+ - 1.2592907801418443 with 6.52% of Long Tail Block__subline_1
+ - 4.339311793214864 with 56.58% of Long Tail Block__subline_2
+
+
+
+ ==== ORGANIC ACID ANHYDRIDE
+
+ + 0.0 from FAUCET
+ + 90.9090909090909 with 22.73% of Organic Acid + Fatty Acid__subline_1
+
+ - 72.72727272727272 with 24.24% of SAMM__subline_0
+ - 18.18181818181818 with 96.97% of Chemical Science__subline_0
+
+
+
+ ==== ORGANIC SOLVENT
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_UNNAMED RUBBER]] + ORGANIC SOLVENT__SUBLINE_0::ORGANIC SOLVENT::CONVERSION
+ + 1213.0874948816113 with 13.07% of Organic Solvent__subline_0
+ + 0.0 with 0.0% of __SYN_ORGANIC SOLVENT AND ACETONE__SUBLINE_1::ORGANIC SOLVENT::CONVERSION
+
+ - 16.635598989898988 with 19.97% of Optical Fiber__subline_0
+ - 446.45233686137783 with 39.86% of Organic Acid + Fatty Acid__subline_0
+ - 504.0842009907806 with 50.41% of Rare Earth Oxides__subline_0
+ - 0.0 with 0.0% of Rare Earth Oxides__subline_1
+ - 139.9168873324831 with 47.75% of Niobium Plate__subline_1
+ - 33.27119797979796 with 41.59% of Aramid and Kevlar__subline_2
+ - 72.72727272727272 with 6.06% of Ind. Solvent__subline_0
+
+
+
+ ==== PARAGEN
+
+ + 0.9753166666666666 from FAUCET
+
+ - 0.9753166666666666 with 70.17% of Py2 new__subline_0
+
+
+
+ ==== PETRI DISH
+
+ + 0.0 from FAUCET
+ + 54.35033440893671 with 41.17% of Unnamed Glassworks__subline_0
+
+ - 1.998 with 60.0% of Unnamed Logistic Science__subline_0
+ - 28.8 with 100.0% of Unnamed Py1__subline_0
+ - 0.0 with 0.0% of Incubation Center__subline_0
+ - 0.33806959946104476 with 33.81% of Navens__subline_0
+ - 0.0 with 0.0% of (Unnamed) Urea__subline_0
+ - 0.0 with 0.0% of Ethanol__subline_0
+ - 1.71 with 100.0% of Tuuphra__subline_0
+ - 1.71 with 100.0% of Tuuphra no2__subline_0
+ - 6.0 with 100.0% of Py2__subline_0
+ - 8.99544426494346 with 56.58% of Long Tail Block__subline_2
+ - 0.3695923134716034 with 35.2% of Aramid and Kevlar__subline_0
+ - 4.4292282310606055 with 20.79% of Photophore__subline_0
+
+
+
+ ==== PETROLEUM GAS
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_CRUDE OIL REFINING__SUBLINE_0::PETROLEUM GAS::CONVERSION
+
+
+
+
+ ==== PHENOL
+
+ + 0.0 from FAUCET
+ + 37.90222951225044 with 37.9% of Phenol]] (mall)__subline_0
+
+ - 9.899739851343625 with 13.2% of Bakelite__subline_0
+ - 28.002489660906814 with 23.34% of Rubber 3__subline_0
+
+
+
+ ==== PHOSPHATE ROCK
+
+ + 0.0 from FAUCET
+ + 138.68052593701123 with 48.49% of Phosphate Rock Mining__subline_0
+ + 0.0 with 0.0% of Phosphate Rock Mining__subline_1
+ + 0.0 with 0.0% of Phosphate Rock Mining__subline_2
+
+ - 59.090909090909086 with 19.7% of Phosporus Pentasulfide__subline_0
+ - 4.817802641802642 with 19.58% of Stainless Steel__subline_0
+ - 74.77181420429952 with 35.78% of Phosphor Processing__subline_0
+
+
+
+ ==== PHOSPHINE GAS
+
+ + 0.0 from FAUCET
+ + 35.77598765755958 with 35.78% of __SYN_PHOSPHOR PROCESSING__SUBLINE_0::PHOSPHINE GAS::CONVERSION
+
+ - 35.775987657559575 with 34.07% of Silicon Wafer Doping__subline_1
+
+
+
+ ==== PHOSPHORIC ACID
+
+ + 0.0 from FAUCET
+ + 189.82962667897323 with 29.2% of __SYN_PHOSPHOR PROCESSING__SUBLINE_0::PHOSPHORIC ACID::CONVERSION
+
+ - 16.25466340406456 with 45.15% of Aluminium Pulp 120__subline_0
+ - 82.66587236581773 with 51.67% of Etching Solution]] -- LT_001__subline_0
+ - 90.9090909090909 with 22.73% of Organic Acid + Fatty Acid__subline_1
+ - 0.0 with 0.0% of Nuclear Research__subline_0
+
+
+
+ ==== PHOSPHOROUS PENTASULFIDE
+
+ + 0.0 from FAUCET
+ + 11.818181818181818 with 19.7% of Phosporus Pentasulfide__subline_0
+
+ - 4.545454545454545 with 22.73% of Organic Acid + Fatty Acid__subline_1
+ - 7.2727272727272725 with 24.24% of SAMM__subline_0
+
+
+
+ ==== PHOTOPHORE
+
+ + 0.0 from FAUCET
+ + 1.6635598989898985 with 20.79% of __SYN_PHOTOPHORE__SUBLINE_0::PHOTOPHORE::CONVERSION
+
+ - 1.6635598989898988 with 19.97% of Optical Fiber__subline_0
+
+
+
+ ==== PHYTOPLANKTON
+
+ + 0.0 from FAUCET
+ + 458.1099867382107 with 11.45% of __SYN_CRUDE OIL REFINING__SUBLINE_0::PHYTOPLANKTON::CONVERSION
+
+ - 49.88776451598845 with 31.18% of Mega-ish F-ish Oil__subline_0
+ - 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+ - 408.2222222222223 with 54.43% of Zipir Egg__subline_0
+
+
+
+ ==== PLASMIDS
+
+ + 0.0 from FAUCET
+ + 3.502000000000001 with 56.58% of Long Tail Block__subline_2
+
+ - 2.802 with 60.0% of Unnamed Logistic Science__subline_0
+ - 0.7 with 100.0% of Py2__subline_0
+
+
+
+ ==== PLASTIC
+
+ + 0.0 from FAUCET
+ + 46.94830734119437 with 78.25% of Plastic LT_001__subline_0
+
+ - 7.431135624022654 with 45.59% of Complex Circuit Board__subline_3
+ - 3.7065656565656564 with 20.71% of Complex Circuit Board__subline_6
+ - 0.7272727272727272 with 24.24% of SAMM__subline_0
+ - 35.083333333333336 with 70.17% of Py2 new__subline_0
+ - 0.0 with 0.0% of Good Alien Sample__subline_0
+
+
+
+ ==== PLUTONIUM-238
+
+ + 0.3684848484848484 from FAUCET
+ + 0.0 with 0.0% of Nuclear Research__subline_0
+
+ - 0.3684848484848484 with 96.97% of Chemical Science__subline_0
+
+
+
+ ==== PLUTONIUM-240
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-240::CONVERSION
+
+
+
+
+ ==== PLUTONIUM-241
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-241::CONVERSION
+
+
+
+
+ ==== PLUTONIUM-242
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-242::CONVERSION
+
+
+
+
+ ==== PLUTONIUM-25.4
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-25.4::CONVERSION
+
+
+
+
+ ==== PRIMERS
+
+ + 0.0 from FAUCET
+
+ - 0.0 with 0.0% of Good Alien Sample__subline_0
+
+
+
+ ==== PRINTED CIRCUIT SUBSTRATE MK2
+
+ + 0.0 from FAUCET
+ + 2.1771212121212122 with 45.64% of Complex Circuit Board__subline_8
+
+ - 1.5 with 100.0% of Meta__subline_1
+ - 0.6771212121212121 with 20.71% of Complex Circuit Board__subline_0
+
+
+
+ ==== PROPENE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Bigger Propene__subline_0
+
+ - 0.0 with 0.0% of New Acetone__subline_0
+
+
+
+ ==== PY1 SCIENCE PACK
+
+ + 0.0 from FAUCET
+ + 24.0 with 100.0% of Unnamed Py1__subline_0
+
+ - 24.0 with 100.0% of Meta__subline_0
+
+
+
+ ==== PY2 SCIENCE PACK
+
+ + 0.0 from FAUCET
+ + 8.95 with 100.0% of Py2__subline_0
+ + 21.05 with 70.17% of Py2 new__subline_0
+
+ - 8.0 with 100.0% of Meta__subline_0
+ - 22.0 with 100.0% of Meta__subline_0
+
+
+
+ ==== QUARTZ
+
+ + 0.0 from FAUCET
+ + 1.11 with 1.11% of Quartz Mining__subline_0
+
+ - 1.11 with 100.0% of Py2__subline_0
+
+
+
+ ==== RALESIAS
+
+ + 0.0 from FAUCET
+ + 250.0 with 100.0% of Unnamed Ralesia__subline_0
+ + 102.11066320202393 with 20.97% of Ralesia 2__subline_0
+
+ - 6.78 with 60.0% of Unnamed Logistic Science__subline_0
+ - 303.0774311353572 with 72.16% of Mass Auog for Brains__subline_2
+ - 31.084482066666673 with 81.8% of Unnamed Ulrics__subline_0
+ - 10.228750000000007 with 41.75% of Arqads__subline_0
+ - 0.94 with 100.0% of Py2__subline_0
+
+
+
+ ==== RARE-EARTH ORE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Rare Earth Mining at Home__subline_0
+ + 90.82470417286008 with 55.05% of Rare Earth Bolide Mining__subline_0
+ + 0.0 with 0.0% of Rare Earth Bolide Mining__subline_1
+ + 0.0 with 0.0% of Rare Earth Bolide Mining__subline_2
+
+ - 40.41628407378204 with 28.87% of Rare-earth Cobalt Extract__subline_0
+ - 50.40842009907806 with 50.41% of Rare Earth Oxides__subline_0
+ - 0.0 with 0.0% of Rare Earth Oxides__subline_1
+
+
+
+ ==== RARE-EARTH OXIDES
+
+ + 0.0 from FAUCET
+ + 50.40842009907806 with 50.41% of Rare Earth Oxides__subline_0
+ + 0.0 with 0.0% of Rare Earth Oxides__subline_1
+
+ - 12.354832847301468 with 45.59% of Complex Circuit Board__subline_3
+ - 1.8491414141414142 with 20.71% of Complex Circuit Board__subline_5
+ - 35.92444583763517 with 70.58% of Silicon Wafer Doping__subline_0
+ - 0.28 with 100.0% of Py2__subline_0
+
+
+
+ ==== RAW COAL
+
+ + 0.0 from FAUCET
+ + 1.1696969696969697 with 0.04% of Raw Ore Mining__subline_0
+ + 0.0 with 0.0% of Bunch of other raw coal mining__subline_0
+
+ - 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+ - 0.0 with 0.0% of T.I.T.S. 2__subline_0
+ - 0.0 with 0.0% of Red Hot Coke Plant__subline_1
+ - 1.1696969696969697 with 0.61% of Coal__subline_0
+
+
+
+ ==== RAW FIBER
+
+ + 0.0 from FAUCET
+ + 13.09090909090909 with 4.36% of Raw Fiber From Kicalk__subline_0
+
+ - 13.09090909090909 with 5.45% of Rayon__subline_0
+
+
+
+ ==== RAYON
+
+ + 0.0 from FAUCET
+ + 2.1818181818181817 with 5.45% of Rayon__subline_0
+
+ - 2.1818181818181817 with 24.24% of SAMM__subline_0
+
+
+
+ ==== RED HOT COKE
+
+ + 0.0 from FAUCET
+ + 1.4863000000000008 with 4.95% of Red Hot Coke Plant__subline_0
+
+ - 1.4863000000000008 with 41.75% of Arqads__subline_0
+
+
+
+ ==== RUBBER
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Unnamed Rubber]] + Organic Solvent__subline_0
+ + 70.00622415226704 with 23.34% of Rubber 3__subline_0
+
+ - 15.0 with 100.0% of Meta__subline_1
+ - 30.56015840421491 with 67.91% of Unnamed Glassworks__subline_1
+ - 0.67 with 100.0% of Py2__subline_0
+ - 4.195460992907802 with 6.52% of Long Tail Block__subline_1
+ - 14.483231017770601 with 56.58% of Long Tail Block__subline_2
+ - 3.636363636363636 with 96.97% of Chemical Science__subline_0
+ - 1.4610101010101006 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+
+
+
+ ==== SALT
+
+ + 0.0 from FAUCET
+ + 514.824362424377 with 78.0% of Salt Mine__subline_0
+ + 0.0 with 0.0% of Salt Mine 2__subline_0
+
+ - 1.9148060966810967 with 6.38% of Ceramic LT_001__subline_0
+ - 3.891684742158426 with 21.62% of Cermet__subline_0
+ - 44.898988064389606 with 31.18% of Mega-ish F-ish Oil__subline_0
+ - 70.00622415226704 with 23.34% of Rubber 3__subline_0
+ - 21.818181818181817 with 5.45% of Sodium Carbonate__subline_0
+ - 107.98907857205103 with 33.75% of Fisk__subline_0
+ - 7.281434854629631 with 33.4% of Milk__subline_0
+ - 69.23469368224254 with 23.08% of Sodium Hydroxide__subline_0
+ - 153.54491434852434 with 44.78% of Niobium Plate__subline_0
+ - 25.153447002342382 with 34.94% of Old Filtration Media__subline_0
+ - 9.09090909090909 with 6.06% of Ind. Solvent__subline_0
+
+
+
+ ==== SAND
+
+ + 0.0 from FAUCET
+ + 15.43858169052573 with 8.98% of Molten Nickel__subline_0
+ + 0.0 with 0.0% of Unnamed Sand__subline_0
+ + 6.573802645442252 with 55.24% of Unnamed [[Zinc Plates__subline_0
+ + 149.0 with 100.0% of Tuuphra__subline_0
+ + 149.0 with 100.0% of Tuuphra no2__subline_0
+ + 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::SAND::CONVERSION
+
+ - 226.39942730370265 with 25.16% of B.A.L.L.S Burning__subline_1
+ - 15.008435149945365 with 79.83% of Ethylene Glycol & Ethylene__subline_0
+ - 78.60452188231994 with 34.94% of Old Filtration Media__subline_0
+
+
+
+ ==== SAND CASTING
+
+ + 0.0 from FAUCET
+ + 37.13369450559556 with 30.94% of Unnamed Sand Casting__subline_0
+
+ - 0.7577415971677628 with 31.57% of Unnamed Aluminium Plate__subline_0
+ - 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+ - 0.0 with 0.0% of T.I.T.S. 2__subline_0
+ - 1.2710505050505052 with 10.59% of D.I.C.K: Duralumin Is Considered Key__subline_0
+ - 1.3147605290884503 with 55.24% of Unnamed [[Zinc Plates__subline_0
+ - 2.1383238259265607 with 17.82% of Titanium Plate__subline_0
+ - 0.0 with 0.0% of Unnamed Iron Plates__subline_0
+ - 13.078190342999502 with 32.7% of Iron Plate Casting #2__subline_0
+ - 1.283556501014639 with 8.98% of CASTING MEGA-BLOCK__subline_0
+ - 9.525988389932188 with 26.46% of CASTING MEGA-BLOCK__subline_1
+ - 4.114579661703715 with 14.64% of CASTING MEGA-BLOCK__subline_2
+ - 0.7995026299604341 with 5.59% of CASTING MEGA-BLOCK__subline_4
+ - 1.6455498623011384 with 11.51% of CASTING MEGA-BLOCK__subline_5
+ - 1.2044506604506604 with 19.58% of Stainless Steel__subline_0
+
+
+
+ ==== SELF-ASSEMBLY MONOLAYER MATERIAL
+
+ + 0.0 from FAUCET
+ + 0.7272727272727272 with 24.24% of SAMM__subline_0
+
+ - 0.7272727272727271 with 96.97% of Chemical Science__subline_0
+
+
+
+ ==== SHALE OIL
+
+ + 0.0 from FAUCET
+ + 227.9854354204647 with 76.0% of UNTRACKED__subline_2
+
+ - 227.9854354204647 with 76.0% of Vatbrain Cartridge Mk2__subline_0
+
+
+
+ ==== SILICON
+
+ + 0.0 from FAUCET
+ + 17.165711508389332 with 57.22% of Silicon Wafer__subline_0
+
+ - 9.89298423566206 with 45.59% of Complex Circuit Board__subline_3
+ - 7.2727272727272725 with 24.24% of SAMM__subline_0
+
+
+
+ ==== SILICON WAFER
+
+ + 0.0 from FAUCET
+ + 26.953677776018527 with 41.47% of Silicon Wafer__subline_1
+
+ - 8.96346683964571 with 70.58% of Silicon Wafer Doping__subline_0
+ - 8.995105468186408 with 34.07% of Silicon Wafer Doping__subline_1
+ - 8.995105468186408 with 34.07% of Silicon Wafer Doping__subline_2
+
+
+
+ ==== SILVER PLATE
+
+ + 0.0 from FAUCET
+ + 25.0 with 100.0% of UNTRACKED__subline_5
+
+ - 1.2481691919191917 with 19.97% of Optical Fiber__subline_0
+ - 16.56694164055377 with 76.0% of Vatbrain Cartridge Mk2__subline_0
+ - 7.184889167527036 with 79.83% of Ethylene Glycol & Ethylene__subline_0
+
+
+
+ ==== SIMPLE CIRCUIT BOARD
+
+ + 0.0 from FAUCET
+ + 3.9038713487042767 with 6.51% of Updated Simple Circuit Boards__subline_0
+
+ - 0.6771212121212121 with 20.71% of Complex Circuit Board__subline_0
+ - 1.56 with 100.0% of Py2__subline_0
+ - 1.6667501365830655 with 25.92% of Long Tail Block__subline_3
+
+
+
+ ==== SKIN
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::SKIN::CONVERSION
+ + 0.0 with 0.0% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::SKIN::CONVERSION
+ + 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::SKIN::CONVERSION
+ + 4.923333333333334 with 30.77% of Auog Slaughter__subline_0
+ + 2.276666666666666 with 56.92% of Unnamed Ulric Rendering__subline_0
+ + 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::SKIN::CONVERSION
+
+ - 0.0 with 0.0% of B.A.L.L.S Burning__subline_9
+ - 7.199999999999999 with 60.0% of Unnamed Logistic Science__subline_0
+
+
+
+ ==== SLAKED LIME
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_ACETYLENE__SUBLINE_0::SLAKED LIME::CONVERSION
+
+
+
+
+ ==== SMALL PARTS
+
+ + 0.0 from FAUCET
+ + 0.36525252525252516 with 0.37% of UNTRACKED__subline_14
+
+ - 0.36525252525252516 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+
+
+
+ ==== SODIUM CARBONATE
+
+ + 0.0 from FAUCET
+ + 2.1818181818181817 with 5.45% of Sodium Carbonate__subline_0
+
+ - 2.1818181818181817 with 5.45% of Rayon__subline_0
+
+
+
+ ==== SODIUM HYDROXIDE
+
+ + 0.0 from FAUCET
+ + 69.23469368224254 with 23.08% of Sodium Hydroxide__subline_0
+
+ - 1.9808608093513758 with 45.64% of Complex Circuit Board__subline_8
+ - 2.8363214353780393 with 15.76% of Fiberboard]] LT_001__subline_0
+ - 37.90222951225044 with 37.9% of Phenol]] (mall)__subline_0
+ - 0.4684645618445132 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 2.67 with 100.0% of Py2__subline_0
+ - 6.2883617505855955 with 34.94% of Old Filtration Media__subline_0
+ - 17.08845561283258 with 34.18% of Aramid and Kevlar__subline_1
+ - 0.0 with 0.0% of Nuclear Research__subline_0
+
+
+
+ ==== SOIL
+
+ + 0.0 from FAUCET
+ + 18.395598999430838 with 55.24% of Unnamed [[Zinc Plates__subline_0
+
+ - 18.395598999430838 with 0.51% of Stone Byproduct to Landfill station!__subline_3
+
+
+
+ ==== SOLDER
+
+ + 0.0 from FAUCET
+ + 7.6041748021079725 with 7.6% of UNTRACKED__subline_9
+
+ - 2.7126262626262627 with 20.71% of Complex Circuit Board__subline_0
+ - 1.5615485394817106 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 3.33 with 100.0% of Py2__subline_0
+
+
+
+ ==== SOLIDIFIED SARCORUS
+
+ + 1.9506333333333332 from FAUCET
+
+ - 1.9506333333333332 with 70.17% of Py2 new__subline_0
+
+
+
+ ==== STAINLESS STEEL
+
+ + 0.0 from FAUCET
+ + 7.637979797979797 with 19.58% of Stainless Steel__subline_0
+
+ - 7.272727272727272 with 96.97% of Chemical Science__subline_0
+ - 0.36525252525252516 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+
+
+
+ ==== STEEL PLATE
+
+ + 0.0 from FAUCET
+ + 26.783831318748888 with 33.48% of UNTRACKED__subline_13
+
+ - 9.2 with 100.0% of Py2__subline_0
+ - 17.58383131874889 with 10.99% of Some Mall Builds That Are Exported (very incomplete lol)__subline_1
+
+
+
+ ==== STONE
+
+ + 0.0 from FAUCET
+ + 13.363529944611598 with 6.49% of Mall Lead Mining__subline_0
+ + 10.232548329767054 with 8.98% of Molten Nickel__subline_0
+ + 0.0 with 0.0% of Iron Ore Dust Mine__subline_0
+ + 90.0 with 100.0% of Starter Quartz Mine__subline_0
+ + 25.0 with 100.0% of Starter Quartz Mine__subline_1
+ + 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+ + 0.0 with 0.0% of T.I.T.S. 2__subline_0
+ + 8.704089748026004 with 8.7% of Beginner Oil Sand Mine__subline_0
+ + 13.147605290884504 with 55.24% of Unnamed [[Zinc Plates__subline_0
+ + 50.286976403066355 with 20.11% of Quartz Mine 2__subline_0
+ + 0.0 with 0.0% of Quartz Mine 3__subline_0
+ + 4.276647651853121 with 17.82% of Titanium Plate__subline_0
+ + 133.9181199357058 with 35.71% of Home Iron Mine__subline_0
+ + 0.0 with 0.0% of Rare Earth Oxides__subline_1
+ + 0.0 with 0.0% of Shitty Outputted Molybdenum Ore Thingy__subline_0
+ + 23.332838955434088 with 8.91% of Antimony Oxide__subline_0
+ + 130.42462686611933 with 18.11% of Copper Mine w Crushing__subline_0
+ + 0.0 with 0.0% of __SYN_MOLYBDENUM PLATE__SUBLINE_0::STONE::CONVERSION
+ + 8.404563880722534 with 47.75% of Niobium Plate__subline_1
+ + 7.1016360050924074 with 31.99% of Chromium & Chromite Sand__subline_0
+ + 0.0 with 0.0% of Chromite Sand__subline_0
+ + 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::STONE::CONVERSION
+
+ - 289.2527535168889 with 8.03% of Stone Byproduct to Landfill station!__subline_1
+ - 105.00933622840056 with 23.34% of Rubber 3__subline_0
+ - 49.90679696969696 with 20.79% of Photophore__subline_0
+ - 74.02429629629631 with 54.43% of Zipir Egg__subline_0
+
+
+
+ ==== STONE BRICK
+
+ + 0.0 from FAUCET
+ + 813.6228126573205 with 63.07% of __SYN_BEEG ZI STONE__SUBLINE_0::STONE BRICK::CONVERSION
+ + 0.0 with 0.0% of Beeg ZI Stone v2__subline_0
+
+ - 0.0 with 0.0% of Stone Byproduct to Landfill station!__subline_0
+ - 382.9478787878788 with 99.73% of Unnamed Automation Science__subline_0
+ - 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+ - 147.03930927256985 with 35.78% of Phosphor Processing__subline_0
+ - 283.6356245968719 with 41.47% of Silicon Wafer__subline_1
+
+
+
+ ==== SULFUR
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Shitty Outputted Molybdenum Ore Thingy__subline_0
+ + 0.0 with 0.0% of __SYN_MOLYBDENUM PLATE__SUBLINE_0::SULFUR::CONVERSION
+ + 165.0 with 100.0% of Sulfur Mine #1__subline_0
+
+ - 1.6635598989898988 with 19.97% of Optical Fiber__subline_0
+ - 42.15151515151515 with 19.7% of Phosporus Pentasulfide__subline_0
+ - 116.34411065268063 with 27.12% of Dedicated Sulfuric Acid__subline_0
+ - 3.6363636363636362 with 3.64% of 600 Carbonyl Sulfide__subline_0
+ - 1.2044506604506604 with 19.58% of Stainless Steel__subline_0
+
+
+
+ ==== SULFURIC ACID
+
+ + 0.0 from FAUCET
+ + 1220.3927690840624 with 27.12% of Dedicated Sulfuric Acid__subline_0
+ + 833.5686536661368 with 25.26% of Tailings to SA__subline_2
+
+ - 41.5390707070707 with 19.97% of Optical Fiber__subline_0
+ - 247.09665694602936 with 45.59% of Complex Circuit Board__subline_3
+ - 82.66587236581773 with 51.67% of Etching Solution]] -- LT_001__subline_0
+ - 109.09090909090908 with 5.45% of Sodium Carbonate__subline_0
+ - 65.45454545454545 with 5.45% of Rayon__subline_0
+ - 99.78844520990617 with 17.82% of Titanium Plate__subline_0
+ - 1008.1684019815611 with 50.41% of Rare Earth Oxides__subline_0
+ - 0.0 with 0.0% of Rare Earth Oxides__subline_1
+ - 220.9551653710848 with 14.73% of Better Anthraq__subline_0
+ - 170.88455612832578 with 34.18% of Aramid and Kevlar__subline_1
+ - 8.31779949494949 with 41.59% of Aramid and Kevlar__subline_2
+ - 0.0 with 0.0% of Nuclear Research__subline_0
+
+
+
+ ==== SYNGAS
+
+ + 0.0 from FAUCET
+ + 7924.46781609531 with 35.38% of __SYN_BEEG ZI STONE__SUBLINE_0::SYNGAS::CONVERSION
+ + 0.0 with 0.0% of Exploiting Coal__subline_0
+
+ - 633.343779496055 with 11.73% of Nickel Ore Mining__subline_0
+ - 804.5118841055274 with 13.78% of Beginner Borax Mine w Washing__subline_0
+ - 2324.1702291223146 with 27.12% of Dedicated Sulfuric Acid__subline_0
+ - 10.909090909090908 with 3.64% of 600 Carbonyl Sulfide__subline_0
+ - 572.1783937261303 with 48.49% of Phosphate Rock Mining__subline_0
+ - 0.0 with 0.0% of Phosphate Rock Mining__subline_1
+ - 0.0 with 0.0% of Phosphate Rock Mining__subline_2
+ - 327.58697853270786 with 47.75% of Niobium Plate__subline_1
+ - 258.1540655905213 with 31.99% of Chromium & Chromite Sand__subline_0
+ - 0.0 with 0.0% of Chromite Sand__subline_0
+ - 1103.2821612931896 with 13.07% of Organic Solvent__subline_0
+ - 0.0 with 0.0% of Bigger Propene__subline_0
+ - 0.0 with 0.0% of Organic Solvent and Acetone__subline_1
+ - 1039.9853554173153 with 35.25% of Organic Solvent and Acetone__subline_2
+ - 180.15961129393963 with 9.01% of Organic Solvent and Acetone__subline_3
+ - 597.458993881245 with 35.78% of Phosphor Processing__subline_0
+ - 72.72727272727272 with 6.06% of Ind. Solvent__subline_0
+
+
+
+ ==== TAILINGS
+
+ + 0.0 from FAUCET
+ + -0.0 with -0.0% of __SYN_T.I.T.S.: [[TURKS IMPORTING TETANUS STATION__SUBLINE_0::TAILINGS::CONVERSION
+ + -0.0 with -0.0% of __SYN_T.I.T.S. 2__SUBLINE_0::TAILINGS::CONVERSION
+ + 0.0 with 0.0% of __SYN_TITANIUM PLATE__SUBLINE_0::TAILINGS::CONVERSION
+ + 0.0 with 0.0% of Unnamed Iron Plates__subline_0
+ + 0.0 with 0.0% of __SYN_CRUDE OIL REFINING__SUBLINE_0::TAILINGS::CONVERSION
+ + 0.0 with 0.0% of __SYN_HOME IRON MINE__SUBLINE_0::TAILINGS::CONVERSION
+ + 0.0 with 0.0% of __SYN_RARE-EARTH COBALT EXTRACT__SUBLINE_0::TAILINGS::CONVERSION
+ + 0.0 with 0.0% of __SYN_RARE EARTH OXIDES__SUBLINE_0::TAILINGS::CONVERSION
+ + 0.0 with 0.0% of Rare Earth Oxides__subline_1
+ + 10165.595802013782 with 15.06% of __SYN_COPPER MINE W CRUSHING__SUBLINE_0::TAILINGS::CONVERSION
+ + 0.0 with 0.0% of __SYN_WASTEFUL LOW DISTILLATES__SUBLINE_0::TAILINGS::CONVERSION
+
+ - 10165.595802013782 with 25.41% of Tailings to SA__subline_1
+ - 0.0 with 0.0% of Anthraq__subline_0
+
+
+
+ ==== TAILINGS DUST
+
+ + 0.0 from FAUCET
+ + 406.6238320805513 with 25.41% of Tailings to SA__subline_1
+
+ - 121.95421691503611 with 13.55% of B.A.L.L.S Burning__subline_2
+ - 281.89741516551516 with 17.62% of Tailings to SA__subline_0
+ - 2.7722000000000016 with 41.75% of Arqads__subline_0
+
+
+
+ ==== TALL OIL
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::TALL OIL::CONVERSION
+ + 0.0 with 0.0% of __SYN_EXPLOITING COAL__SUBLINE_1::TALL OIL::CONVERSION
+
+
+
+
+ ==== TAR
+
+ + 0.0 from FAUCET
+ + 5031.169031216842 with 76.23% of Tar Tapping__subline_0
+ + 0.0 with 0.0% of Tar Tapping__subline_1
+ + 0.0 with 0.0% of Tar Tapping__subline_2
+ + 0.0 with 0.0% of Tar Tapping__subline_3
+ + 0.0 with 0.0% of __SYN_EXPLOITING COAL__SUBLINE_0::TAR::CONVERSION
+
+ - 0.0 with 0.0% of Unnamed Rubber]] + Organic Solvent__subline_0
+ - 1972.1407936326757 with 55.24% of Unnamed [[Zinc Plates__subline_0
+ - 219.89279363434113 with 11.45% of Crude Oil Refining__subline_0
+ - 145.45454545454544 with 24.24% of SAMM__subline_0
+ - 0.0 with 0.0% of Exploiting Coal__subline_1
+ - 2693.6808984952804 with 44.89% of Tar Cracking__subline_0
+
+
+
+ ==== TCI_TODO_INTERNAL
+
+ + 0.0 from FAUCET
+ + 102.07787705406189 with 35.2% of Aramid and Kevlar__subline_0
+
+ - 85.44227806416289 with 34.18% of Aramid and Kevlar__subline_1
+ - 16.63559898989898 with 41.59% of Aramid and Kevlar__subline_2
+
+
+
+ ==== TIN GRADE 1
+
+ + 0.0 from FAUCET
+ + 27.430381315069255 with 45.72% of UNTRACKED__subline_12
+
+ - 15.455936870624804 with 33.75% of Fisk__subline_0
+ - 8.164444444444445 with 54.43% of Zipir Egg__subline_0
+ - 3.81 with 100.0% of Py2__subline_0
+
+
+
+ ==== TIN PLATE
+
+ + 0.0 from FAUCET
+ + 103.56607524972199 with 11.51% of CASTING MEGA-BLOCK__subline_5
+
+ - 4.389057239057239 with 23.1% of Complex Circuit Board__subline_1
+ - 5.704689754689754 with 41.95% of Complex Circuit Board__subline_2
+ - 1.3853030303030305 with 20.71% of Complex Circuit Board__subline_5
+ - 3.0853535353535353 with 20.71% of Complex Circuit Board__subline_6
+ - 3.2999132837812093 with 45.64% of Complex Circuit Board__subline_8
+ - 50.12957251082251 with 26.38% of Complex Circuit Board__subline_9
+ - 4.164129438617895 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 2.61764059508772 with 81.8% of Unnamed Ulrics__subline_0
+ - 1.9413750000000007 with 32.36% of Vrauk + Vrauk Slaughter__subline_1
+ - 1.4562869709259263 with 33.4% of Milk__subline_0
+ - 8.36 with 100.0% of Py2__subline_0
+ - 16.667501365830653 with 25.92% of Long Tail Block__subline_3
+ - 0.36525252525252516 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+
+
+
+ ==== TIN-CHROMIUM ALLOY
+
+ + 0.0 from FAUCET
+
+ - 0.0 with 0.0% of Simple Additives__subline_0
+
+
+
+ ==== TINNED CABLE
+
+ + 0.0 from FAUCET
+ + 50.12957251082251 with 26.38% of Complex Circuit Board__subline_9
+
+ - 34.10229978354978 with 41.95% of Complex Circuit Board__subline_2
+ - 6.170707070707071 with 20.71% of Complex Circuit Board__subline_6
+ - 9.856565656565657 with 20.71% of Complex Circuit Board__subline_7
+
+
+
+ ==== TITANIUM PLATE
+
+ + 0.0 from FAUCET
+ + 53.45809564816402 with 17.82% of Titanium Plate__subline_0
+
+ - 0.0 with 0.0% of Unnamed Rubber]] + Organic Solvent__subline_0
+ - 22.798543542046477 with 38.0% of Mall Intermetallics__subline_1
+ - 0.6600000000000004 with 1.83% of Mall Intermetallics__subline_4
+ - 0.0 with 0.0% of Titanium Tetrachloride__subline_0
+ - 3.6363636363636362 with 24.24% of SAMM__subline_0
+ - 25.632683419248867 with 34.18% of Aramid and Kevlar__subline_1
+ - 0.0 with 0.0% of Oleochemicals__subline_0
+ - 0.7305050505050503 with 0.61% of Some Mall Builds That Are Exported (very incomplete lol)__subline_0
+
+
+
+ ==== TITANIUM TETRACHLORIDE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Titanium Tetrachloride__subline_0
+
+
+
+
+ ==== TODO_BLOOD
+
+ + 0.0 from FAUCET
+ + 3868.445493023645 with 24.48% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::TODO_BLOOD::CONVERSION
+
+ - 84.53333333333333 with 0.54% of Mass Auog for Brains__subline_0
+ - 3783.912159690312 with 23.95% of Mass Auog for Brains__subline_1
+
+
+
+ ==== TODO_INTERNAL_ACETONE
+
+ + 0.0 from FAUCET
+ + 528.8061129240585 with 35.25% of Organic Solvent and Acetone__subline_2
+
+ - 528.8061129240585 with 35.25% of Organic Solvent and Acetone__subline_0
+ - 0.0 with 0.0% of Organic Solvent and Acetone__subline_1
+
+
+
+ ==== TODO_INTERNAL_LABEQCHASSIS
+
+ + 0.0 from FAUCET
+ + 3.732690819097378 with 25.92% of Long Tail Block__subline_3
+
+ - 0.8417021276595746 with 6.52% of Long Tail Block__subline_1
+ - 2.8909886914378036 with 56.58% of Long Tail Block__subline_2
+
+
+
+ ==== TODO_INTERNAL_SMALLPARTS
+
+ + 0.0 from FAUCET
+ + 9.336083593991685 with 9.34% of Long Tail Block__subline_4
+
+ - 2.0944680851063833 with 6.52% of Long Tail Block__subline_1
+ - 7.2416155088853005 with 56.58% of Long Tail Block__subline_2
+
+
+
+ ==== TOROIDAL INDUCTORS
+
+ + 0.0 from FAUCET
+ + 2.7126262626262627 with 20.71% of Complex Circuit Board__subline_7
+
+ - 2.7126262626262627 with 20.71% of Complex Circuit Board__subline_0
+
+
+
+ ==== TRANSISTORS
+
+ + 0.0 from FAUCET
+ + 2.0334343434343434 with 20.71% of Complex Circuit Board__subline_4
+
+ - 2.0334343434343434 with 20.71% of Complex Circuit Board__subline_0
+
+
+
+ ==== TUUPHRA
+
+ + 0.024387833333335607 from FAUCET
+ + 6.0 with 100.0% of Tuuphra__subline_0
+ + 6.0 with 100.0% of Tuuphra no2__subline_0
+
+ - 0.0 with 0.0% of Ethanol__subline_0
+ - 12.024387833333336 with 33.4% of Milk__subline_0
+
+
+
+ ==== ULRIC
+
+ + 0.0 from FAUCET
+ + 7.771120516666668 with 81.8% of Unnamed Ulrics__subline_0
+
+ - 1.138333333333333 with 56.92% of Unnamed Ulric Rendering__subline_0
+ - 1.2942500000000008 with 41.75% of Arqads__subline_0
+ - 1.44 with 100.0% of Py2__subline_0
+ - 3.898537183333333 with 58.45% of New Arqad Honey__subline_0
+
+
+
+ ==== UNSLIMED IRON
+
+ + 0.0 from FAUCET
+ + 35.711498649521545 with 35.71% of Home Iron Mine__subline_0
+
+ - 32.69547585749876 with 32.7% of Iron Plate Casting #2__subline_0
+ - 3.0160227920227918 with 19.58% of Stainless Steel__subline_0
+
+
+
+ ==== URANIUM ORE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Rare Earth Oxides__subline_1
+
+
+
+
+ ==== URANIUM-238
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::URANIUM-238::CONVERSION
+
+
+
+
+ ==== UREA
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of __SYN_NEW CASEIN__SUBLINE_0::UREA::CONVERSION
+ + 378.3912159690312 with 23.95% of Mass Auog for Brains__subline_1
+ + 0.0 with 0.0% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::UREA::CONVERSION
+ + 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::UREA::CONVERSION
+ + 0.0 with 0.0% of (Unnamed) Urea__subline_0
+ + 0.0 with 0.0% of __SYN_FISK__SUBLINE_0::UREA::CONVERSION
+ + 8.164444444444445 with 54.43% of Zipir Egg__subline_0
+ + 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::UREA::CONVERSION
+ + 0.0 with 0.0% of __SYN_ZIPIR EGG__SUBLINE_0::UREA::CONVERSION
+
+ - 13.600051515151511 with 19.97% of Optical Fiber__subline_0
+ - 3.0 with 60.0% of Unnamed Logistic Science__subline_0
+ - 3.9617216187027515 with 45.64% of Complex Circuit Board__subline_8
+ - 62.5977431215925 with 78.25% of Plastic LT_001__subline_0
+ - 2.156641414141414 with 3.59% of Melamine Resin]] -- Mall__subline_1
+ - 1.0142087983831343 with 33.81% of Navens__subline_0
+ - 4.363636363636363 with 5.45% of Rayon__subline_0
+ - 9.38525985077828 with 13.04% of New Bigger Better Battery__subline_0
+ - 5.725677978099606 with 6.51% of Updated Simple Circuit Boards__subline_0
+ - 0.0 with 0.0% of Rare Earth Oxides__subline_1
+ - 0.0 with 0.0% of Anthraq__subline_0
+ - 13.989087134260217 with 13.99% of Fertilizer__subline_0
+ - 31.59254821525123 with 25.27% of Fertilizer Methane__subline_0
+ - 9.529060184089493 with 8.91% of Antimony Oxide__subline_0
+ - 26.3 with 100.0% of Py2__subline_0
+ - 168.02806699692684 with 28.0% of Urea Decomposition__subline_0
+ - 14.177290262866258 with 11.81% of Long Tail Block__subline_5
+ - 17.13466695959595 with 41.59% of Aramid and Kevlar__subline_2
+
+
+
+ ==== VATBRAIN CARTRIDGE MK2
+
+ + 1.4402912915907056 from FAUCET
+ + 4.559708708409294 with 76.0% of Vatbrain Cartridge Mk2__subline_0
+
+ - 6.0 with 100.0% of Meta__subline_0
+
+
+
+ ==== VITRELOY
+
+ + 0.0 from FAUCET
+ + 0.4400000000000003 with 1.83% of Mall Intermetallics__subline_4
+
+ - 0.44 with 100.0% of Py2__subline_0
+ - 0.0 with 0.0% of Mall Intermetallics__subline_2
+
+
+
+ ==== VRAUK
+
+ + 0.0 from FAUCET
+ + 6.438893750000003 with 32.36% of Vrauk + Vrauk Slaughter__subline_1
+
+ - 2.99034375 with 24.92% of Vrauk + Vrauk Slaughter__subline_0
+ - 3.4485500000000022 with 41.75% of Arqads__subline_0
+
+
+
+ ==== VRAUK FOOD
+
+ + 0.0 from FAUCET
+ + 1.2942500000000008 with 32.36% of __SYN_VRAUK + VRAUK SLAUGHTER__SUBLINE_1::VRAUK FOOD::CONVERSION
+
+ - 1.2942500000000008 with 41.75% of Arqads__subline_0
+
+
+
+ ==== XYLENOL
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Simple Additives__subline_1
+
+
+
+
+ ==== ZINC ORE
+
+ + 0.0 from FAUCET
+ + 131.47605290884505 with 26.3% of UNTRACKED__subline_11
+
+ - 131.47605290884505 with 55.24% of Unnamed [[Zinc Plates__subline_0
+
+
+
+ ==== ZINC PLATE
+
+ + 0.0 from FAUCET
+ + 82.86305855599477 with 55.24% of Unnamed [[Zinc Plates__subline_0
+
+ - 11.200642791551882 with 9.96% of Ferrite -- LT_001__subline_0
+ - 3.2999132837812084 with 13.2% of Bakelite__subline_0
+ - 21.116834664251126 with 13.04% of New Bigger Better Battery__subline_0
+ - 7.756274043512041 with 27.12% of Dedicated Sulfuric Acid__subline_0
+ - 35.775987657559575 with 34.07% of Silicon Wafer Doping__subline_2
+ - 2.5153447002342384 with 34.94% of Old Filtration Media__subline_0
+ - 1.1980614151046984 with 9.01% of Organic Solvent and Acetone__subline_3
+
+
+
+ ==== ZIPIR EGG
+
+ + 0.0 from FAUCET
+ + 3.265777777777778 with 54.43% of Zipir Egg__subline_0
+ + 16.32888888888889 with 54.43% of Zipir Egg__subline_0
+
+ - 5.0 with 100.0% of Py2__subline_0
+ - 14.594666666666667 with 70.17% of Py2 new__subline_0
+
+
+
+ ==== __SYN_ACETYLENE__SUBLINE_0::SLAKED LIME
+
+ + 0.0 from FAUCET
+ + 508.1065556409358 with 6.77% of Acetylene__subline_0
+
+ - 0.0 with 0.0% of __SYN_ACETYLENE__SUBLINE_0::SLAKED LIME::CONVERSION
+ - 508.1065556409358 with 6.77% of __SYN_ACETYLENE__SUBLINE_0::SLAKED LIME::VOIDING
+
+
+
+ ==== __SYN_ARAMID AND KEVLAR__SUBLINE_0::150C STEAM
+
+ + 0.0 from FAUCET
+ + 1855.001420947952 with 35.2% of Aramid and Kevlar__subline_0
+
+ - 0.0 with 0.0% of __SYN_ARAMID AND KEVLAR__SUBLINE_0::150C STEAM::CONVERSION
+ - 1855.001420947952 with 35.2% of __SYN_ARAMID AND KEVLAR__SUBLINE_0::150C STEAM::VOIDING
+
+
+
+ ==== __SYN_ARQADS__SUBLINE_0::ARTHROPOD BLOOD
+
+ + 0.0 from FAUCET
+ + 22.252750000000013 with 41.75% of Arqads__subline_0
+
+ - 0.0 with 0.0% of __SYN_ARQADS__SUBLINE_0::ARTHROPOD BLOOD::CONVERSION
+ - 22.252750000000013 with 41.75% of __SYN_ARQADS__SUBLINE_0::ARTHROPOD BLOOD::VOIDING
+
+
+
+ ==== __SYN_AUOG SLAUGHTER__SUBLINE_0::BLOOD
+
+ + 0.0 from FAUCET
+ + 246.16666666666669 with 30.77% of Auog Slaughter__subline_0
+
+ - 0.0 with 0.0% of __SYN_AUOG SLAUGHTER__SUBLINE_0::BLOOD::CONVERSION
+ - 246.16666666666669 with 30.77% of __SYN_AUOG SLAUGHTER__SUBLINE_0::BLOOD::VOIDING
+
+
+
+ ==== __SYN_BEEG ZI STONE__SUBLINE_0::COKE
+
+ + 0.0 from FAUCET
+ + 299.5897953583157 with 63.07% of Beeg ZI Stone__subline_0
+
+ - 0.0 with 0.0% of __SYN_BEEG ZI STONE__SUBLINE_0::COKE::CONVERSION
+ - 299.5897953583157 with 63.07% of __SYN_BEEG ZI STONE__SUBLINE_0::COKE::VOIDING
+
+
+
+ ==== __SYN_BEEG ZI STONE__SUBLINE_0::CREOSOTE
+
+ + 0.0 from FAUCET
+ + 3733.834923202587 with 63.07% of Beeg ZI Stone__subline_0
+
+ - 640.1023282504167 with 10.81% of __SYN_BEEG ZI STONE__SUBLINE_0::CREOSOTE::CONVERSION
+ - 3093.7325949521705 with 52.26% of __SYN_BEEG ZI STONE__SUBLINE_0::CREOSOTE::VOIDING
+
+
+
+ ==== __SYN_BEEG ZI STONE__SUBLINE_0::IRON OXIDE
+
+ + 0.0 from FAUCET
+ + 85.14657341762657 with 63.07% of Beeg ZI Stone__subline_0
+
+ - 47.80492715775981 with 35.41% of __SYN_BEEG ZI STONE__SUBLINE_0::IRON OXIDE::CONVERSION
+ - 37.34164625986675 with 27.66% of __SYN_BEEG ZI STONE__SUBLINE_0::IRON OXIDE::VOIDING
+
+
+
+ ==== __SYN_BEEG ZI STONE__SUBLINE_0::STONE BRICK
+
+ + 0.0 from FAUCET
+ + 813.6228126573205 with 63.07% of Beeg ZI Stone__subline_0
+
+ - 813.6228126573205 with 63.07% of __SYN_BEEG ZI STONE__SUBLINE_0::STONE BRICK::CONVERSION
+ - 0.0 with 0.0% of __SYN_BEEG ZI STONE__SUBLINE_0::STONE BRICK::VOIDING
+
+
+
+ ==== __SYN_BEEG ZI STONE__SUBLINE_0::SYNGAS
+
+ + 0.0 from FAUCET
+ + 14128.024033739519 with 63.07% of Beeg ZI Stone__subline_0
+
+ - 7924.46781609531 with 35.38% of __SYN_BEEG ZI STONE__SUBLINE_0::SYNGAS::CONVERSION
+ - 6203.55621764421 with 27.69% of __SYN_BEEG ZI STONE__SUBLINE_0::SYNGAS::VOIDING
+
+
+
+ ==== __SYN_COPPER MINE W CRUSHING__SUBLINE_0::TAILINGS
+
+ + 0.0 from FAUCET
+ + 12227.308768698687 with 18.11% of Copper Mine w Crushing__subline_0
+
+ - 10165.595802013782 with 15.06% of __SYN_COPPER MINE W CRUSHING__SUBLINE_0::TAILINGS::CONVERSION
+ - 2061.712966684905 with 3.05% of __SYN_COPPER MINE W CRUSHING__SUBLINE_0::TAILINGS::VOIDING
+
+
+
+ ==== __SYN_CRUDE OIL REFINING__SUBLINE_0::150C STEAM
+
+ + 0.0 from FAUCET
+ + 1523.2157059045505 with 11.45% of Crude Oil Refining__subline_0
+
+ - 0.0 with 0.0% of __SYN_CRUDE OIL REFINING__SUBLINE_0::150C STEAM::CONVERSION
+ - 1523.2157059045505 with 11.45% of __SYN_CRUDE OIL REFINING__SUBLINE_0::150C STEAM::VOIDING
+
+
+
+ ==== __SYN_CRUDE OIL REFINING__SUBLINE_0::BTX
+
+ + 0.0 from FAUCET
+ + 121.39914648562583 with 11.45% of Crude Oil Refining__subline_0
+
+ - 0.0 with 0.0% of __SYN_CRUDE OIL REFINING__SUBLINE_0::BTX::CONVERSION
+ - 121.39914648562583 with 11.45% of __SYN_CRUDE OIL REFINING__SUBLINE_0::BTX::VOIDING
+
+
+
+ ==== __SYN_CRUDE OIL REFINING__SUBLINE_0::FLUE GAS
+
+ + 0.0 from FAUCET
+ + 397.4104134953978 with 11.45% of Crude Oil Refining__subline_0
+
+ - 0.0 with 0.0% of __SYN_CRUDE OIL REFINING__SUBLINE_0::FLUE GAS::CONVERSION
+ - 397.4104134953978 with 11.45% of __SYN_CRUDE OIL REFINING__SUBLINE_0::FLUE GAS::VOIDING
+
+
+
+ ==== __SYN_CRUDE OIL REFINING__SUBLINE_0::HEAVY OIL
+
+ + 0.0 from FAUCET
+ + 1225.4442145247135 with 11.45% of Crude Oil Refining__subline_0
+
+ - 143.98047094572175 with 1.35% of __SYN_CRUDE OIL REFINING__SUBLINE_0::HEAVY OIL::CONVERSION
+ - 1081.4637435789919 with 10.11% of __SYN_CRUDE OIL REFINING__SUBLINE_0::HEAVY OIL::VOIDING
+
+
+
+ ==== __SYN_CRUDE OIL REFINING__SUBLINE_0::MIBC
+
+ + 0.0 from FAUCET
+ + 128.27079628669898 with 11.45% of Crude Oil Refining__subline_0
+
+ - 110.83645164386006 with 9.9% of __SYN_CRUDE OIL REFINING__SUBLINE_0::MIBC::CONVERSION
+ - 17.434344642838923 with 1.56% of __SYN_CRUDE OIL REFINING__SUBLINE_0::MIBC::VOIDING
+
+
+
+ ==== __SYN_CRUDE OIL REFINING__SUBLINE_0::PETROLEUM GAS
+
+ + 0.0 from FAUCET
+ + 57.26374834227634 with 11.45% of Crude Oil Refining__subline_0
+
+ - 0.0 with 0.0% of __SYN_CRUDE OIL REFINING__SUBLINE_0::PETROLEUM GAS::CONVERSION
+ - 57.26374834227634 with 11.45% of __SYN_CRUDE OIL REFINING__SUBLINE_0::PETROLEUM GAS::VOIDING
+
+
+
+ ==== __SYN_CRUDE OIL REFINING__SUBLINE_0::PHYTOPLANKTON
+
+ + 0.0 from FAUCET
+ + 458.1099867382107 with 11.45% of Crude Oil Refining__subline_0
+
+ - 458.1099867382107 with 11.45% of __SYN_CRUDE OIL REFINING__SUBLINE_0::PHYTOPLANKTON::CONVERSION
+ - 0.0 with 0.0% of __SYN_CRUDE OIL REFINING__SUBLINE_0::PHYTOPLANKTON::VOIDING
+
+
+
+ ==== __SYN_CRUDE OIL REFINING__SUBLINE_0::TAILINGS
+
+ + 0.0 from FAUCET
+ + 854.3751252667629 with 11.45% of Crude Oil Refining__subline_0
+
+ - 0.0 with 0.0% of __SYN_CRUDE OIL REFINING__SUBLINE_0::TAILINGS::CONVERSION
+ - 854.3751252667629 with 11.45% of __SYN_CRUDE OIL REFINING__SUBLINE_0::TAILINGS::VOIDING
+
+
+
+ ==== __SYN_ETHYLENE GLYCOL & ETHYLENE__SUBLINE_0::ETHYLENE
+
+ + 0.0 from FAUCET
+ + 399.16050930705757 with 79.83% of Ethylene Glycol & Ethylene__subline_0
+
+ - 350.0311207613352 with 70.01% of __SYN_ETHYLENE GLYCOL & ETHYLENE__SUBLINE_0::ETHYLENE::CONVERSION
+ - 49.12938854572235 with 9.83% of __SYN_ETHYLENE GLYCOL & ETHYLENE__SUBLINE_0::ETHYLENE::VOIDING
+
+
+
+ ==== __SYN_EXPLOITING COAL__SUBLINE_0::TAR
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Exploiting Coal__subline_0
+
+ - 0.0 with 0.0% of __SYN_EXPLOITING COAL__SUBLINE_0::TAR::CONVERSION
+ - 0.0 with 0.0% of __SYN_EXPLOITING COAL__SUBLINE_0::TAR::VOIDING
+
+
+
+ ==== __SYN_EXPLOITING COAL__SUBLINE_1::AROMATICS
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Exploiting Coal__subline_1
+
+ - 0.0 with 0.0% of __SYN_EXPLOITING COAL__SUBLINE_1::AROMATICS::CONVERSION
+ - 0.0 with 0.0% of __SYN_EXPLOITING COAL__SUBLINE_1::AROMATICS::VOIDING
+
+
+
+ ==== __SYN_EXPLOITING COAL__SUBLINE_1::TALL OIL
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Exploiting Coal__subline_1
+
+ - 0.0 with 0.0% of __SYN_EXPLOITING COAL__SUBLINE_1::TALL OIL::CONVERSION
+ - 0.0 with 0.0% of __SYN_EXPLOITING COAL__SUBLINE_1::TALL OIL::VOIDING
+
+
+
+ ==== __SYN_FISK__SUBLINE_0::UREA
+
+ + 0.0 from FAUCET
+ + 53.994539286025514 with 33.75% of Fisk__subline_0
+
+ - 0.0 with 0.0% of __SYN_FISK__SUBLINE_0::UREA::CONVERSION
+ - 53.994539286025514 with 33.75% of __SYN_FISK__SUBLINE_0::UREA::VOIDING
+
+
+
+ ==== __SYN_HOME IRON MINE__SUBLINE_0::TAILINGS
+
+ + 0.0 from FAUCET
+ + 3571.1498649521545 with 35.71% of Home Iron Mine__subline_0
+
+ - 0.0 with 0.0% of __SYN_HOME IRON MINE__SUBLINE_0::TAILINGS::CONVERSION
+ - 3571.1498649521545 with 35.71% of __SYN_HOME IRON MINE__SUBLINE_0::TAILINGS::VOIDING
+
+
+
+ ==== __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::BONES
+
+ + 0.0 from FAUCET
+ + 389.67098288831636 with 72.16% of Mass Auog for Brains__subline_2
+
+ - 12.67613919892209 with 2.35% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::BONES::CONVERSION
+ - 376.99484368939426 with 69.81% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::BONES::VOIDING
+
+
+
+ ==== __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::BRAIN
+
+ + 0.0 from FAUCET
+ + 129.8903276294388 with 72.16% of Mass Auog for Brains__subline_2
+
+ - 129.8903276294388 with 72.16% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::BRAIN::CONVERSION
+ - 0.0 with 0.0% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::BRAIN::VOIDING
+
+
+
+ ==== __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::GUTS
+
+ + 0.0 from FAUCET
+ + 389.67098288831636 with 72.16% of Mass Auog for Brains__subline_2
+
+ - 302.5153246277216 with 56.02% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::GUTS::CONVERSION
+ - 87.15565826059475 with 16.14% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::GUTS::VOIDING
+
+
+
+ ==== __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::LARD
+
+ + 0.0 from FAUCET
+ + 259.7806552588776 with 72.16% of Mass Auog for Brains__subline_2
+
+ - 3.466587236581775 with 0.96% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::LARD::CONVERSION
+ - 256.31406802229577 with 71.2% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::LARD::VOIDING
+
+
+
+ ==== __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::MEAT
+
+ + 0.0 from FAUCET
+ + 1039.1226210355103 with 72.16% of Mass Auog for Brains__subline_2
+
+ - 160.0287369209464 with 11.11% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::MEAT::CONVERSION
+ - 879.0938841145639 with 61.05% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::MEAT::VOIDING
+
+
+
+ ==== __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::SKIN
+
+ + 0.0 from FAUCET
+ + 259.7806552588776 with 72.16% of Mass Auog for Brains__subline_2
+
+ - 0.0 with 0.0% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::SKIN::CONVERSION
+ - 259.7806552588776 with 72.16% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::SKIN::VOIDING
+
+
+
+ ==== __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::TODO_BLOOD
+
+ + 0.0 from FAUCET
+ + 11401.484314139627 with 72.16% of Mass Auog for Brains__subline_2
+
+ - 3868.445493023645 with 24.48% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::TODO_BLOOD::CONVERSION
+ - 7533.038821115982 with 47.68% of __SYN_MASS AUOG FOR BRAINS__SUBLINE_2::TODO_BLOOD::VOIDING
+
+
+
+ ==== __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::GUTS
+
+ + 0.0 from FAUCET
+ + 34.29783810474206 with 31.18% of Mega-ish F-ish Oil__subline_0
+
+ - 0.0 with 0.0% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::GUTS::CONVERSION
+ - 34.29783810474206 with 31.18% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::GUTS::VOIDING
+
+
+
+ ==== __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::MEAT
+
+ + 0.0 from FAUCET
+ + 13.719135241896824 with 31.18% of Mega-ish F-ish Oil__subline_0
+
+ - 0.0 with 0.0% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::MEAT::CONVERSION
+ - 13.719135241896824 with 31.18% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::MEAT::VOIDING
+
+
+
+ ==== __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::SKIN
+
+ + 0.0 from FAUCET
+ + 13.09553818544697 with 31.18% of Mega-ish F-ish Oil__subline_0
+
+ - 0.0 with 0.0% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::SKIN::CONVERSION
+ - 13.09553818544697 with 31.18% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::SKIN::VOIDING
+
+
+
+ ==== __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::UREA
+
+ + 0.0 from FAUCET
+ + 10.476430548357575 with 31.18% of Mega-ish F-ish Oil__subline_0
+
+ - 0.0 with 0.0% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::UREA::CONVERSION
+ - 10.476430548357575 with 31.18% of __SYN_MEGA-ISH F-ISH OIL__SUBLINE_0::UREA::VOIDING
+
+
+
+ ==== __SYN_MOLYBDENUM PLATE__SUBLINE_0::GRAVEL
+
+ + 0.0 from FAUCET
+ + 23.25785271298686 with 23.03% of Molybdenum Plate__subline_0
+
+ - 0.0 with 0.0% of __SYN_MOLYBDENUM PLATE__SUBLINE_0::GRAVEL::CONVERSION
+ - 23.25785271298686 with 23.03% of __SYN_MOLYBDENUM PLATE__SUBLINE_0::GRAVEL::VOIDING
+
+
+
+ ==== __SYN_MOLYBDENUM PLATE__SUBLINE_0::STONE
+
+ + 0.0 from FAUCET
+ + 46.745981195409236 with 23.03% of Molybdenum Plate__subline_0
+
+ - 0.0 with 0.0% of __SYN_MOLYBDENUM PLATE__SUBLINE_0::STONE::CONVERSION
+ - 46.745981195409236 with 23.03% of __SYN_MOLYBDENUM PLATE__SUBLINE_0::STONE::VOIDING
+
+
+
+ ==== __SYN_MOLYBDENUM PLATE__SUBLINE_0::SULFUR
+
+ + 0.0 from FAUCET
+ + 2.6021161946213023 with 23.03% of Molybdenum Plate__subline_0
+
+ - 0.0 with 0.0% of __SYN_MOLYBDENUM PLATE__SUBLINE_0::SULFUR::CONVERSION
+ - 2.6021161946213023 with 23.03% of __SYN_MOLYBDENUM PLATE__SUBLINE_0::SULFUR::VOIDING
+
+
+
+ ==== __SYN_NEW CASEIN__SUBLINE_0::UREA
+
+ + 0.0 from FAUCET
+ + 12.201211500000001 with 29.26% of New Casein__subline_0
+
+ - 0.0 with 0.0% of __SYN_NEW CASEIN__SUBLINE_0::UREA::CONVERSION
+ - 12.201211500000001 with 29.26% of __SYN_NEW CASEIN__SUBLINE_0::UREA::VOIDING
+
+
+
+ ==== __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::BRAIN
+
+ + 0.0 from FAUCET
+ + 7.5105898728400575 with 16.69% of New Vrauk Slaughter__subline_0
+
+ - 7.5105898728400575 with 16.69% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::BRAIN::CONVERSION
+ - 0.0 with 0.0% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::BRAIN::VOIDING
+
+
+
+ ==== __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::CHITIN
+
+ + 0.0 from FAUCET
+ + 7.5105898728400575 with 16.69% of New Vrauk Slaughter__subline_0
+
+ - 0.0 with 0.0% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::CHITIN::CONVERSION
+ - 7.5105898728400575 with 16.69% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::CHITIN::VOIDING
+
+
+
+ ==== __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::GUTS
+
+ + 0.0 from FAUCET
+ + 15.021179745680115 with 16.69% of New Vrauk Slaughter__subline_0
+
+ - 0.0 with 0.0% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::GUTS::CONVERSION
+ - 15.021179745680115 with 16.69% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::GUTS::VOIDING
+
+
+
+ ==== __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::MEAT
+
+ + 0.0 from FAUCET
+ + 15.021179745680115 with 16.69% of New Vrauk Slaughter__subline_0
+
+ - 0.0 with 0.0% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::MEAT::CONVERSION
+ - 15.021179745680115 with 16.69% of __SYN_NEW VRAUK SLAUGHTER__SUBLINE_0::MEAT::VOIDING
+
+
+
+ ==== __SYN_NUCLEAR RESEARCH__SUBLINE_0::GRAVEL
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Nuclear Research__subline_0
+
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::GRAVEL::CONVERSION
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::GRAVEL::VOIDING
+
+
+
+ ==== __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-240
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Nuclear Research__subline_0
+
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-240::CONVERSION
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-240::VOIDING
+
+
+
+ ==== __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-241
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Nuclear Research__subline_0
+
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-241::CONVERSION
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-241::VOIDING
+
+
+
+ ==== __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-242
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Nuclear Research__subline_0
+
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-242::CONVERSION
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-242::VOIDING
+
+
+
+ ==== __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-25.4
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Nuclear Research__subline_0
+
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-25.4::CONVERSION
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::PLUTONIUM-25.4::VOIDING
+
+
+
+ ==== __SYN_NUCLEAR RESEARCH__SUBLINE_0::SAND
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Nuclear Research__subline_0
+
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::SAND::CONVERSION
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::SAND::VOIDING
+
+
+
+ ==== __SYN_NUCLEAR RESEARCH__SUBLINE_0::STONE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Nuclear Research__subline_0
+
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::STONE::CONVERSION
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::STONE::VOIDING
+
+
+
+ ==== __SYN_NUCLEAR RESEARCH__SUBLINE_0::URANIUM-238
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Nuclear Research__subline_0
+
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::URANIUM-238::CONVERSION
+ - 0.0 with 0.0% of __SYN_NUCLEAR RESEARCH__SUBLINE_0::URANIUM-238::VOIDING
+
+
+
+ ==== __SYN_OLEOCHEMICALS__SUBLINE_0::150C STEAM
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Oleochemicals__subline_0
+
+ - 0.0 with 0.0% of __SYN_OLEOCHEMICALS__SUBLINE_0::150C STEAM::CONVERSION
+ - 0.0 with 0.0% of __SYN_OLEOCHEMICALS__SUBLINE_0::150C STEAM::VOIDING
+
+
+
+ ==== __SYN_ORGANIC SOLVENT AND ACETONE__SUBLINE_1::AMMONIA
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Organic Solvent and Acetone__subline_1
+
+ - 0.0 with 0.0% of __SYN_ORGANIC SOLVENT AND ACETONE__SUBLINE_1::AMMONIA::CONVERSION
+ - 0.0 with 0.0% of __SYN_ORGANIC SOLVENT AND ACETONE__SUBLINE_1::AMMONIA::VOIDING
+
+
+
+ ==== __SYN_ORGANIC SOLVENT AND ACETONE__SUBLINE_1::ORGANIC SOLVENT
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Organic Solvent and Acetone__subline_1
+
+ - 0.0 with 0.0% of __SYN_ORGANIC SOLVENT AND ACETONE__SUBLINE_1::ORGANIC SOLVENT::CONVERSION
+ - 0.0 with 0.0% of __SYN_ORGANIC SOLVENT AND ACETONE__SUBLINE_1::ORGANIC SOLVENT::VOIDING
+
+
+
+ ==== __SYN_ORGANIC SOLVENT__SUBLINE_0::ACETONE
+
+ + 0.0 from FAUCET
+ + 606.5437474408056 with 13.07% of Organic Solvent__subline_0
+
+ - 606.5437474408056 with 13.07% of __SYN_ORGANIC SOLVENT__SUBLINE_0::ACETONE::CONVERSION
+ - 0.0 with 0.0% of __SYN_ORGANIC SOLVENT__SUBLINE_0::ACETONE::VOIDING
+
+
+
+ ==== __SYN_PHOSPHOR PROCESSING__SUBLINE_0::HYDROFLUORIC ACID
+
+ + 0.0 from FAUCET
+ + 93.3753277862305 with 35.78% of Phosphor Processing__subline_0
+
+ - 0.0 with 0.0% of __SYN_PHOSPHOR PROCESSING__SUBLINE_0::HYDROFLUORIC ACID::CONVERSION
+ - 93.3753277862305 with 35.78% of __SYN_PHOSPHOR PROCESSING__SUBLINE_0::HYDROFLUORIC ACID::VOIDING
+
+
+
+ ==== __SYN_PHOSPHOR PROCESSING__SUBLINE_0::PHOSPHINE GAS
+
+ + 0.0 from FAUCET
+ + 35.775987657559575 with 35.78% of Phosphor Processing__subline_0
+
+ - 35.77598765755958 with 35.78% of __SYN_PHOSPHOR PROCESSING__SUBLINE_0::PHOSPHINE GAS::CONVERSION
+ - 0.0 with 0.0% of __SYN_PHOSPHOR PROCESSING__SUBLINE_0::PHOSPHINE GAS::VOIDING
+
+
+
+ ==== __SYN_PHOSPHOR PROCESSING__SUBLINE_0::PHOSPHORIC ACID
+
+ + 0.0 from FAUCET
+ + 232.54391977413724 with 35.78% of Phosphor Processing__subline_0
+
+ - 189.82962667897323 with 29.2% of __SYN_PHOSPHOR PROCESSING__SUBLINE_0::PHOSPHORIC ACID::CONVERSION
+ - 42.71429309516401 with 6.57% of __SYN_PHOSPHOR PROCESSING__SUBLINE_0::PHOSPHORIC ACID::VOIDING
+
+
+
+ ==== __SYN_PHOTOPHORE__SUBLINE_0::BLOOD
+
+ + 0.0 from FAUCET
+ + 66.54239595959595 with 20.79% of Photophore__subline_0
+
+ - 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::BLOOD::CONVERSION
+ - 66.54239595959595 with 20.79% of __SYN_PHOTOPHORE__SUBLINE_0::BLOOD::VOIDING
+
+
+
+ ==== __SYN_PHOTOPHORE__SUBLINE_0::BONES
+
+ + 0.0 from FAUCET
+ + 3.3271197979797975 with 20.79% of Photophore__subline_0
+
+ - 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::BONES::CONVERSION
+ - 3.3271197979797975 with 20.79% of __SYN_PHOTOPHORE__SUBLINE_0::BONES::VOIDING
+
+
+
+ ==== __SYN_PHOTOPHORE__SUBLINE_0::GUTS
+
+ + 0.0 from FAUCET
+ + 3.3271197979797975 with 20.79% of Photophore__subline_0
+
+ - 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::GUTS::CONVERSION
+ - 3.3271197979797975 with 20.79% of __SYN_PHOTOPHORE__SUBLINE_0::GUTS::VOIDING
+
+
+
+ ==== __SYN_PHOTOPHORE__SUBLINE_0::LARD
+
+ + 0.0 from FAUCET
+ + 5.822459646464646 with 20.79% of Photophore__subline_0
+
+ - 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::LARD::CONVERSION
+ - 5.822459646464646 with 20.79% of __SYN_PHOTOPHORE__SUBLINE_0::LARD::VOIDING
+
+
+
+ ==== __SYN_PHOTOPHORE__SUBLINE_0::MEAT
+
+ + 0.0 from FAUCET
+ + 4.990679696969696 with 20.79% of Photophore__subline_0
+
+ - 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::MEAT::CONVERSION
+ - 4.990679696969696 with 20.79% of __SYN_PHOTOPHORE__SUBLINE_0::MEAT::VOIDING
+
+
+
+ ==== __SYN_PHOTOPHORE__SUBLINE_0::PHOTOPHORE
+
+ + 0.0 from FAUCET
+ + 1.6635598989898988 with 20.79% of Photophore__subline_0
+
+ - 1.6635598989898985 with 20.79% of __SYN_PHOTOPHORE__SUBLINE_0::PHOTOPHORE::CONVERSION
+ - 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::PHOTOPHORE::VOIDING
+
+
+
+ ==== __SYN_PHOTOPHORE__SUBLINE_0::SKIN
+
+ + 0.0 from FAUCET
+ + 2.495339848484848 with 20.79% of Photophore__subline_0
+
+ - 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::SKIN::CONVERSION
+ - 2.495339848484848 with 20.79% of __SYN_PHOTOPHORE__SUBLINE_0::SKIN::VOIDING
+
+
+
+ ==== __SYN_PHOTOPHORE__SUBLINE_0::UREA
+
+ + 0.0 from FAUCET
+ + 11.0834678270202 with 20.79% of Photophore__subline_0
+
+ - 0.0 with 0.0% of __SYN_PHOTOPHORE__SUBLINE_0::UREA::CONVERSION
+ - 11.0834678270202 with 20.79% of __SYN_PHOTOPHORE__SUBLINE_0::UREA::VOIDING
+
+
+
+ ==== __SYN_RARE EARTH OXIDES__SUBLINE_0::TAILINGS
+
+ + 0.0 from FAUCET
+ + 504.0842009907806 with 50.41% of Rare Earth Oxides__subline_0
+
+ - 0.0 with 0.0% of __SYN_RARE EARTH OXIDES__SUBLINE_0::TAILINGS::CONVERSION
+ - 504.0842009907806 with 50.41% of __SYN_RARE EARTH OXIDES__SUBLINE_0::TAILINGS::VOIDING
+
+
+
+ ==== __SYN_RARE-EARTH COBALT EXTRACT__SUBLINE_0::TAILINGS
+
+ + 0.0 from FAUCET
+ + 168.30495439296377 with 28.87% of Rare-earth Cobalt Extract__subline_0
+
+ - 0.0 with 0.0% of __SYN_RARE-EARTH COBALT EXTRACT__SUBLINE_0::TAILINGS::CONVERSION
+ - 168.30495439296377 with 28.87% of __SYN_RARE-EARTH COBALT EXTRACT__SUBLINE_0::TAILINGS::VOIDING
+
+
+
+ ==== __SYN_SILICON WAFER__SUBLINE_1::FLUE GAS
+
+ + 0.0 from FAUCET
+ + 1347.6838888009263 with 41.47% of Silicon Wafer__subline_1
+
+ - 0.0 with 0.0% of __SYN_SILICON WAFER__SUBLINE_1::FLUE GAS::CONVERSION
+ - 1347.6838888009263 with 41.47% of __SYN_SILICON WAFER__SUBLINE_1::FLUE GAS::VOIDING
+
+
+
+ ==== __SYN_T.I.T.S. 2__SUBLINE_0::TAILINGS
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of T.I.T.S. 2__subline_0
+
+ - -0.0 with -0.0% of __SYN_T.I.T.S. 2__SUBLINE_0::TAILINGS::CONVERSION
+ - 0.0 with 0.0% of __SYN_T.I.T.S. 2__SUBLINE_0::TAILINGS::VOIDING
+
+
+
+ ==== __SYN_T.I.T.S.: [[TURKS IMPORTING TETANUS STATION__SUBLINE_0::TAILINGS
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of T.I.T.S.: [[Turks Importing Tetanus Station__subline_0
+
+ - -0.0 with -0.0% of __SYN_T.I.T.S.: [[TURKS IMPORTING TETANUS STATION__SUBLINE_0::TAILINGS::CONVERSION
+ - 0.0 with 0.0% of __SYN_T.I.T.S.: [[TURKS IMPORTING TETANUS STATION__SUBLINE_0::TAILINGS::VOIDING
+
+
+
+ ==== __SYN_TAR CRACKING__SUBLINE_0::ANTHRACENE OIL
+
+ + 0.0 from FAUCET
+ + 2020.2606738714603 with 44.89% of Tar Cracking__subline_0
+
+ - 1271.0485276550903 with 28.25% of __SYN_TAR CRACKING__SUBLINE_0::ANTHRACENE OIL::CONVERSION
+ - 749.21214621637 with 16.65% of __SYN_TAR CRACKING__SUBLINE_0::ANTHRACENE OIL::VOIDING
+
+
+
+ ==== __SYN_TAR CRACKING__SUBLINE_0::AROMATICS
+
+ + 0.0 from FAUCET
+ + 404.0521347742921 with 44.89% of Tar Cracking__subline_0
+
+ - 0.0 with 0.0% of __SYN_TAR CRACKING__SUBLINE_0::AROMATICS::CONVERSION
+ - 404.0521347742921 with 44.89% of __SYN_TAR CRACKING__SUBLINE_0::AROMATICS::VOIDING
+
+
+
+ ==== __SYN_TAR CRACKING__SUBLINE_0::CREOSOTE
+
+ + 0.0 from FAUCET
+ + 646.4834156388673 with 44.89% of Tar Cracking__subline_0
+
+ - 0.0 with 0.0% of __SYN_TAR CRACKING__SUBLINE_0::CREOSOTE::CONVERSION
+ - 646.4834156388673 with 44.89% of __SYN_TAR CRACKING__SUBLINE_0::CREOSOTE::VOIDING
+
+
+
+ ==== __SYN_TAR CRACKING__SUBLINE_0::GASOLINE
+
+ + 0.0 from FAUCET
+ + 202.02606738714604 with 44.89% of Tar Cracking__subline_0
+
+ - 202.02606738714604 with 44.89% of __SYN_TAR CRACKING__SUBLINE_0::GASOLINE::CONVERSION
+ - 0.0 with 0.0% of __SYN_TAR CRACKING__SUBLINE_0::GASOLINE::VOIDING
+
+
+
+ ==== __SYN_TAR CRACKING__SUBLINE_0::NAPHTHALENE OIL
+
+ + 0.0 from FAUCET
+ + 808.1042695485842 with 44.89% of Tar Cracking__subline_0
+
+ - 0.0 with 0.0% of __SYN_TAR CRACKING__SUBLINE_0::NAPHTHALENE OIL::CONVERSION
+ - 808.1042695485842 with 44.89% of __SYN_TAR CRACKING__SUBLINE_0::NAPHTHALENE OIL::VOIDING
+
+
+
+ ==== __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::AROMATICS
+
+ + 0.0 from FAUCET
+ + 1195.2500856452905 with 51.08% of Tar to Benzene Through Tall Oil__subline_0
+
+ - 921.5442017992839 with 39.38% of __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::AROMATICS::CONVERSION
+ - 273.7058838460066 with 11.7% of __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::AROMATICS::VOIDING
+
+
+
+ ==== __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::BENZENE
+
+ + 0.0 from FAUCET
+ + 664.0278253584946 with 51.08% of Tar to Benzene Through Tall Oil__subline_0
+
+ - 664.0278253584946 with 51.08% of __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::BENZENE::CONVERSION
+ - 0.0 with 0.0% of __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::BENZENE::VOIDING
+
+
+
+ ==== __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::TALL OIL
+
+ + 0.0 from FAUCET
+ + 664.0278253584946 with 51.08% of Tar to Benzene Through Tall Oil__subline_0
+
+ - 0.0 with 0.0% of __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::TALL OIL::CONVERSION
+ - 664.0278253584946 with 51.08% of __SYN_TAR TO BENZENE THROUGH TALL OIL__SUBLINE_0::TALL OIL::VOIDING
+
+
+
+ ==== __SYN_TITANIUM PLATE__SUBLINE_0::TAILINGS
+
+ + 0.0 from FAUCET
+ + 44.370219387976135 with 17.82% of Titanium Plate__subline_0
+
+ - 0.0 with 0.0% of __SYN_TITANIUM PLATE__SUBLINE_0::TAILINGS::CONVERSION
+ - 44.370219387976135 with 17.82% of __SYN_TITANIUM PLATE__SUBLINE_0::TAILINGS::VOIDING
+
+
+
+ ==== __SYN_UNNAMED NATURAL GAS__SUBLINE_0::CONDENSATES
+
+ + 0.0 from FAUCET
+ + 213.76000000000013 with 35.63% of Unnamed Natural Gas__subline_0
+
+ - 0.0 with 0.0% of __SYN_UNNAMED NATURAL GAS__SUBLINE_0::CONDENSATES::CONVERSION
+ - 213.76000000000013 with 35.63% of __SYN_UNNAMED NATURAL GAS__SUBLINE_0::CONDENSATES::VOIDING
+
+
+
+ ==== __SYN_UNNAMED NATURAL GAS__SUBLINE_0::NAPHTHA
+
+ + 0.0 from FAUCET
+ + 106.88000000000007 with 35.63% of Unnamed Natural Gas__subline_0
+
+ - 0.0 with 0.0% of __SYN_UNNAMED NATURAL GAS__SUBLINE_0::NAPHTHA::CONVERSION
+ - 106.88000000000007 with 35.63% of __SYN_UNNAMED NATURAL GAS__SUBLINE_0::NAPHTHA::VOIDING
+
+
+
+ ==== __SYN_UNNAMED RUBBER]] + ORGANIC SOLVENT__SUBLINE_0::CREOSOTE
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Unnamed Rubber]] + Organic Solvent__subline_0
+
+ - 0.0 with 0.0% of __SYN_UNNAMED RUBBER]] + ORGANIC SOLVENT__SUBLINE_0::CREOSOTE::CONVERSION
+ - 0.0 with 0.0% of __SYN_UNNAMED RUBBER]] + ORGANIC SOLVENT__SUBLINE_0::CREOSOTE::VOIDING
+
+
+
+ ==== __SYN_UNNAMED RUBBER]] + ORGANIC SOLVENT__SUBLINE_0::ORGANIC SOLVENT
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Unnamed Rubber]] + Organic Solvent__subline_0
+
+ - 0.0 with 0.0% of __SYN_UNNAMED RUBBER]] + ORGANIC SOLVENT__SUBLINE_0::ORGANIC SOLVENT::CONVERSION
+ - 0.0 with 0.0% of __SYN_UNNAMED RUBBER]] + ORGANIC SOLVENT__SUBLINE_0::ORGANIC SOLVENT::VOIDING
+
+
+
+ ==== __SYN_VRAUK + VRAUK SLAUGHTER__SUBLINE_1::VRAUK FOOD
+
+ + 0.0 from FAUCET
+ + 1.2942500000000006 with 32.36% of Vrauk + Vrauk Slaughter__subline_1
+
+ - 1.2942500000000008 with 32.36% of __SYN_VRAUK + VRAUK SLAUGHTER__SUBLINE_1::VRAUK FOOD::CONVERSION
+ - 0.0 with 0.0% of __SYN_VRAUK + VRAUK SLAUGHTER__SUBLINE_1::VRAUK FOOD::VOIDING
+
+
+
+ ==== __SYN_WASTEFUL LOW DISTILLATES__SUBLINE_0::TAILINGS
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Wasteful Low Distillates__subline_0
+
+ - 0.0 with 0.0% of __SYN_WASTEFUL LOW DISTILLATES__SUBLINE_0::TAILINGS::CONVERSION
+ - 0.0 with 0.0% of __SYN_WASTEFUL LOW DISTILLATES__SUBLINE_0::TAILINGS::VOIDING
+
+
+
+ ==== __SYN_ZIPIR EGG__SUBLINE_0::UREA
+
+ + 0.0 from FAUCET
+ + 40.82222222222223 with 54.43% of Zipir Egg__subline_0
+
+ - 0.0 with 0.0% of __SYN_ZIPIR EGG__SUBLINE_0::UREA::CONVERSION
+ - 40.82222222222223 with 54.43% of __SYN_ZIPIR EGG__SUBLINE_0::UREA::VOIDING
+
+
+
+ ==== __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::BRAIN
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::BRAIN::CONVERSION
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::BRAIN::VOIDING
+
+
+
+ ==== __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::GUTS
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::GUTS::CONVERSION
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::GUTS::VOIDING
+
+
+
+ ==== __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::LARD
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::LARD::CONVERSION
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::LARD::VOIDING
+
+
+
+ ==== __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::MEAT
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::MEAT::CONVERSION
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::MEAT::VOIDING
+
+
+
+ ==== __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::SKIN
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::SKIN::CONVERSION
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::SKIN::VOIDING
+
+
+
+ ==== __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::UREA
+
+ + 0.0 from FAUCET
+ + 0.0 with 0.0% of Zipir Rendering for Blood__subline_0
+
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::UREA::CONVERSION
+ - 0.0 with 0.0% of __SYN_ZIPIR RENDERING FOR BLOOD__SUBLINE_0::UREA::VOIDING

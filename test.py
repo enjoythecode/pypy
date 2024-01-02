@@ -134,16 +134,16 @@ def using_python_list_comp():
 def kowalski101():
     kowalski = Analyzer()
 
-    r0 = Line("ZI Log", "", inputs=parse(""),
+    r0 = Line("ZI Log", inputs=parse(""),
     outputs = parse("10000 LoG"),
     registers = [kowalski])
 
-    r1 = Line("LogToAsh", "",
+    r1 = Line("LogToAsh",
     inputs = parse("150 Log"),
     outputs = parse("100 Ash"),
     registers = [kowalski])
 
-    r2 = Line("AshToSilver", "",
+    r2 = Line("AshToSilver",
     inputs = parse("150 Ash"),
     outputs = parse("15 Silver"),
     registers = [kowalski])
