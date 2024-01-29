@@ -1,6 +1,7 @@
 from collections import defaultdict
 from ortools.linear_solver import pywraplp
 from defs import T
+import copy
 
 class Analyzer():
     def __init__(self):
@@ -11,25 +12,60 @@ class Analyzer():
 
 
     def analysis(self, targets, thing_dict, prevent_faucet = []):
-        initial_wats, thing_flow_details = self.sub_analysis(targets, thing_dict, prevent_faucet, verbose = False)
-        assert initial_wats is not None
-        initial_wats = set(initial_wats)
+        defs_prevent_faucet = []
+        meta_prevent_faucet = []
+        for thing in thing_dict:
+            if not thing_dict[thing].should_faucet:
+                defs_prevent_faucet += [thing]
+            if "META_" in thing.upper() or "SCIENCE PACK" in thing.upper() or "VATBRAIN CARTRIDGE" in thing.upper() or "__SYN" in thing.upper():
+                meta_prevent_faucet += [thing]
 
+        all_prevents = copy.deepcopy(defs_prevent_faucet) + copy.deepcopy(meta_prevent_faucet) + copy.deepcopy(prevent_faucet)
+
+        initial_prevents = copy.deepcopy(all_prevents)
+        initial_wats, thing_flow_details = self.sub_analysis(targets, thing_dict, initial_prevents, verbose = False)
+        if initial_wats is None:
+            print("OOOOPS, no solution could be found. i am relaxing restrictions from defs.py except those with META_ in it, also the temp forced restrictions")
+            initial_prevents = initial_prevents - defs_prevent_faucet
+            initial_wats, thing_flow_details = self.sub_analysis(targets, thing_dict, initial_prevents, verbose = False)
+
+        if initial_wats is None:
+            print("ZOUCHERS! no solution could be found. i am relaxing restrictions from defs.py except those with META_ in it, AND THAT'S IT")
+            initial_prevents = initial_prevents - prevent_faucet
+            initial_wats, thing_flow_details = self.sub_analysis(targets, thing_dict, initial_prevents, verbose = False)
+
+
+        initial_wats_set = set(initial_wats)
+        initial_wats = sorted(list(initial_wats_set))
+        # TODO missing some output for members of initial_wats
         kowalski_insights = {}
 
         with open("report.txt", "w") as file:
             file.writelines(thing_flow_details.values())
 
         for wat in initial_wats:
-            after_wat, _ = self.sub_analysis(targets, thing_dict, prevent_faucet + [wat], verbose = False)
-            if after_wat is None:
-                kowalski_insights[wat] = f"restricting {wat} was infeasible"
-                continue
-            kowalski_insights[wat] = f"restricting {wat} added a need for {set(after_wat) - initial_wats}"
+            seen = set()
+            i = 0
+            stack = copy.deepcopy([wat])
+            while stack:
+                curr = stack.pop()
+                if curr in seen:
+                    continue
+                seen.add(curr)
+                (after_wat, after_thing_flow_details) = self.sub_analysis(targets, thing_dict, initial_prevents + list(seen), verbose = False)
+                if after_wat is None:
+                    kowalski_insights[curr] = f"[#{i}] restricting {curr} was infeasible\n" 
+                    continue
+                added_need = set(after_wat) - initial_wats_set
+                kowalski_insights[curr] = f"[#{i}] restricting {curr} added a need for {added_need}\n" + after_thing_flow_details[curr]
+                print(">>", added_need)
+                stack.extend(added_need)
+                print("!!", len(stack))
+                i += 1
 
         for key, val in kowalski_insights.items():
-            print(val)
-            print(thing_flow_details[key])
+            print(key, val)
+            # print(thing_flow_details[key])
 
         print(len(kowalski_insights))
 
@@ -81,7 +117,7 @@ class Analyzer():
                     print("*** ignoring ", thing, " because it is in ", prevent_faucet_on)
                 ub = 0
             
-            new_f = solver.NumVar(0, ub if thing_dict[thing].should_faucet else 0, f"faucet::{thing}")
+            new_f = solver.NumVar(0, ub, f"faucet::{thing}")
             faucet_indices[thing] = i
             faucet_index_to_thing[i] = thing
             faucets.append(new_f)

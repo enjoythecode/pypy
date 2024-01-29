@@ -6,6 +6,12 @@ COULD_NOT_FIND = set()
 
 def parse(s):
 
+    multiplier = 1
+    if ">" in s:
+        multiplier_part = s.split(">")[0]
+        s = s.split(">")[1]
+        multiplier = float(multiplier_part.strip(" "))
+
     parts = s.split("+")
     result = []
     for part in parts:
@@ -26,9 +32,10 @@ def parse(s):
         number_part = stripped[:first_space]
         
         has_k = "k" == number_part[-1]
-        if has_k:
+        has_m = "M" == number_part[-1]
+        if has_k or has_m:
             number_part = number_part[:-1]
-        number = float(number_part) * (1000 if has_k else 1) * (MINING_PROD if affected_by_mining_prod else 1)
+        number = float(number_part) * (1_000 if has_k else 1) * (1_000_000 if has_m else 1)  * (MINING_PROD if affected_by_mining_prod else 1) * multiplier
         text = stripped[first_space+1:].strip(" ")
 
         prio = 0
@@ -37,7 +44,7 @@ def parse(s):
             text = text.split("@")[0].strip(" ")
 
         if text.upper() not in T:
-            print("could not find in T: ", text.upper())
+            print("could not find in T: ", text.upper(), " || haystack: ", s)
             COULD_NOT_FIND.add(text.upper())
         else:
             result.append(Rate(T[text.upper()], number, prio, voidable))

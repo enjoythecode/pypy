@@ -52,11 +52,24 @@ if __name__ == '__main__':
     print()
 
     temp_no_faucet = ""
-    temp_no_faucet += ",SELF-ASSEMBLY MONOLAYER MATERIAL,RAYON"  # why no rayon?
-    # temp_no_faucet = "Nichrome,Cobalt Extract,,RAYON,SODIUM CARBONATE,LIGHTLY P-DOPED SILICON"
-    # temp_no_faucet+= ",Kevlar,PLUTONIUM-238,Nylon"
-    # temp_no_faucet+= ",HEAVILY N-DOPED SILICON,RARE-EARTH OXIDES,Osptical Fiber"
+    # temp_no_faucet += ",DNA POLYMERASE"
+    
+    # # 2024-01-18
+    # temp_no_faucet += ",MOSFET,PLASMIDS,COMPLEX CIRCUIT BOARD,DIODES,MICROCHIPS,TRANSISTORS,LIGHTLY P-DOPED SILICON,LIGHTLY N-DOPED SILICON,HEAVILY N-DOPED SILICON,SEA SPONGE,PHOTOPHORE"
+    # temp_no_faucet += ",ORGANIC ACID ANHYDRIDE"
 
+    # temp_no_faucet += ",ALIEN ENZYMES"  # pyrod
+    # temp_no_faucet += ",SELF-ASSEMBLY MONOLAYER MATERIAL,RAYON"  # why no rayon?
+    # temp_no_faucet += ",CYTOSTATICS,GREAT ALIEN SAMPLE,GRAPHENE ROLL,BIOFILM,NEGASIUM,CHITOSAN,NANOFIBRILS,Neodymium Magnet,GOOD ALIEN SAMPLE,LEAD CONTAINER"  # py3 needs to be actually built, y'know?
+    # temp_no_faucet += ",SUB-denier MicRoFiber,mICROFIBER"
+    # temp_no_faucet += ",PARAGEN" # science ingredients need to be actually built, y'know?
+    # temp_no_faucet += ",PRIMERS" # sometimes, preventing fauces creates a need for set(), y'know?
+    # # temp_no_faucet = "Nichrome,Cobalt Extract,,RAYON,SODIUM CARBONATE,LIGHTLY P-DOPED SILICON"
+    # # temp_no_faucet+= ",Kevlar,PLUTONIUM-238,Nylon"
+    # # temp_no_faucet+= ",HEAVILY N-DOPED SILICON,RARE-EARTH OXIDES,Osptical Fiber"
+    # # temp_no_faucet += ",PLUTONIUM-238" # high compression rate
+    # temp_no_faucet += ",DINGRIT SPIKE,PROPEPTIDES" # high compression rate
+    # temp_no_faucet += ",DRILL HEAD" # pypy seemed picky about it, but removing didn't add a faucet for anything
     
     read_kowalski.analysis(parse("1 META_TARGET_SCIENCE + 1 Meta_Target_Mall"), thing_dict,
                            prevent_faucet = [thing.upper() for thing in temp_no_faucet.split(",")])

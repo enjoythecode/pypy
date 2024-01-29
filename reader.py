@@ -3,7 +3,8 @@ from collections import defaultdict
 from analyzer import Analyzer
 from classes import Line
 
-VERBOSE = True
+VERBOSE = False
+# VERBOSE = True
 
 def parse_stations(filename):
 

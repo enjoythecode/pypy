@@ -8,14 +8,16 @@ __ = [
 
     Thing("Meta_Target_Science", UNKNOWN_STACK_SIZE, should_faucet = False),
     Thing("Meta_Target_Mall", UNKNOWN_STACK_SIZE, should_faucet = False),
-
+    Thing("Meta_Target_Planned", UNKNOWN_STACK_SIZE, should_faucet = False),
 
     Thing("Automation Science Pack", 200, should_faucet = __science_faucet),
     Thing("Py1 Science Pack", 200, should_faucet = __science_faucet),
     Thing("Logistic Science Pack", 200, should_faucet = __science_faucet),
     Thing("Py2 Science Pack", 200, should_faucet = __science_faucet),
     Thing("Chemical Science Pack", 200, should_faucet = __science_faucet),
+    Thing("Py3 Science Pack", UNKNOWN_STACK_SIZE, should_faucet = False),
     Thing("Vatbrain Cartridge Mk1", UNKNOWN_STACK_SIZE, should_faucet=__science_faucet),
+    Thing("Vatbrain Cartridge Mk2", UNKNOWN_STACK_SIZE, should_faucet=__science_faucet),
 
     Thing("Niobium-Aluminium-Titanium Special Alloy", UNKNOWN_STACK_SIZE),
     Thing("MW", 1),
@@ -89,7 +91,7 @@ __ = [
     Thing("Naphthalene Oil", UNKNOWN_STACK_SIZE),
     Thing("Aluminium Plate", UNKNOWN_STACK_SIZE),
     Thing("Lead-Antimony Alloy", UNKNOWN_STACK_SIZE),
-    Thing("Quartz", UNKNOWN_STACK_SIZE),
+    Thing("Quartz ore", UNKNOWN_STACK_SIZE),
     Thing("Antimony Grade 4", UNKNOWN_STACK_SIZE),
     Thing("Nickel Plate", UNKNOWN_STACK_SIZE),
     Thing("Intermetallics", UNKNOWN_STACK_SIZE),
@@ -123,7 +125,6 @@ __ = [
     Thing("Battery", UNKNOWN_STACK_SIZE),
     Thing("Stone Bricks", UNKNOWN_STACK_SIZE),
     Thing("Shale Oil", UNKNOWN_STACK_SIZE),
-    Thing("Vatbrain Cartridge Mk2", UNKNOWN_STACK_SIZE),
     Thing("Petri Dish", UNKNOWN_STACK_SIZE),
     Thing("Fertilizer", UNKNOWN_STACK_SIZE),
     Thing("Medium-Power Resistors", UNKNOWN_STACK_SIZE),
@@ -140,7 +141,6 @@ __ = [
     Thing("Anthraquinone", UNKNOWN_STACK_SIZE),
     Thing("Zinc", UNKNOWN_STACK_SIZE),
     Thing("Iron Ore Dust", UNKNOWN_STACK_SIZE),
-    Thing("Copper", UNKNOWN_STACK_SIZE),
     Thing("Fatty Acids", UNKNOWN_STACK_SIZE),
     Thing("Crushed Oil Sands", UNKNOWN_STACK_SIZE),
     Thing("Rare Earth Ore", UNKNOWN_STACK_SIZE),
@@ -180,7 +180,6 @@ __ = [
     Thing("Complex Circuit Board", UNKNOWN_STACK_SIZE, should_faucet=False),
     Thing("Mibc", UNKNOWN_STACK_SIZE),
     Thing("Molybdenum Plate", UNKNOWN_STACK_SIZE),
-    Thing("Plastic", UNKNOWN_STACK_SIZE),
     Thing("Chitin", UNKNOWN_STACK_SIZE),
     Thing("Logs", UNKNOWN_STACK_SIZE),
     Thing("Kw", UNKNOWN_STACK_SIZE),
@@ -256,7 +255,6 @@ __ = [
     
     Thing("Molten Lead", UNKNOWN_STACK_SIZE),
 
-    
     Thing("Electrolytic Capacitors", UNKNOWN_STACK_SIZE, should_faucet=False),
     Thing("Microchips", UNKNOWN_STACK_SIZE, should_faucet=False),
     Thing("Tinned Cable", UNKNOWN_STACK_SIZE),
@@ -272,13 +270,11 @@ __ = [
     
     Thing("Cyanic Acid", UNKNOWN_STACK_SIZE),
 
-    
     Thing("Good Alien Sample", UNKNOWN_STACK_SIZE),
     Thing("Casein", UNKNOWN_STACK_SIZE),
     Thing("Solidified Sarcorus", UNKNOWN_STACK_SIZE),
     Thing("Arqad Honey", UNKNOWN_STACK_SIZE),
     Thing("Paragen", UNKNOWN_STACK_SIZE),
-
 
     Thing("Propene", UNKNOWN_STACK_SIZE),
     Thing("Low Distillates", UNKNOWN_STACK_SIZE),
@@ -294,12 +290,189 @@ __ = [
     Thing("Lead Dust", UNKNOWN_STACK_SIZE),
     Thing("Fatty Acid", UNKNOWN_STACK_SIZE),
     Thing("Dna Polymerase", UNKNOWN_STACK_SIZE),
-    Thing("Meta_Target_Planned", UNKNOWN_STACK_SIZE),
     Thing("Molten Tin", UNKNOWN_STACK_SIZE),
     Thing("Biosample", UNKNOWN_STACK_SIZE),
     Thing("Grease", UNKNOWN_STACK_SIZE),
 
+    Thing("Flavonoids", UNKNOWN_STACK_SIZE),
+    Thing("Industrial Diamond", UNKNOWN_STACK_SIZE),
+    Thing("Neodymium Magnet", UNKNOWN_STACK_SIZE),
+    Thing("Guar", UNKNOWN_STACK_SIZE),
+    Thing("Acrylic", UNKNOWN_STACK_SIZE),
+    Thing("Great Alien Sample", UNKNOWN_STACK_SIZE),
+    Thing("Gro", UNKNOWN_STACK_SIZE),
+    Thing("Mechanical Parts Mk2", UNKNOWN_STACK_SIZE),
+    Thing("Cresylic Acid", UNKNOWN_STACK_SIZE),
+    Thing("Negasium", UNKNOWN_STACK_SIZE),
+    Thing("Arqad Propolis", UNKNOWN_STACK_SIZE),
+    Thing("Nanofibrils", UNKNOWN_STACK_SIZE),
+    Thing("Bio-Oil", UNKNOWN_STACK_SIZE),
+    Thing("Tributyl Phosphate", UNKNOWN_STACK_SIZE),
+    Thing("Bio Ore", UNKNOWN_STACK_SIZE, should_faucet = False),
+    Thing("Z3 Reagent", UNKNOWN_STACK_SIZE),
+
+    Thing("Kimberlite Rock", UNKNOWN_STACK_SIZE),
+    Thing("Graphite", UNKNOWN_STACK_SIZE),
+    Thing("Arthurian Egg", UNKNOWN_STACK_SIZE),
+    Thing("Drilling Fluid 2", UNKNOWN_STACK_SIZE),
+    Thing("Vrauk Cocoon", UNKNOWN_STACK_SIZE),
+    Thing("Retrovirus", UNKNOWN_STACK_SIZE),
+    Thing("Graphene Roll", UNKNOWN_STACK_SIZE),
+    Thing("Grod", UNKNOWN_STACK_SIZE),
+    Thing("Soda Ash Regeneration Solution", UNKNOWN_STACK_SIZE),
+    Thing("Zinc Grade 1", UNKNOWN_STACK_SIZE),
+
+    Thing("Cellulose", UNKNOWN_STACK_SIZE),
+    Thing("Biofilm", UNKNOWN_STACK_SIZE),
+
+    Thing("Phosphorous Acid", UNKNOWN_STACK_SIZE),
+    Thing("Plastic Bar", UNKNOWN_STACK_SIZE),
+    Thing("Acrolein", UNKNOWN_STACK_SIZE),
+    Thing("Cytostatics", UNKNOWN_STACK_SIZE),
+    Thing("Sea Sponge", UNKNOWN_STACK_SIZE),
+
+    Thing("Bedding", UNKNOWN_STACK_SIZE),
+    Thing("Todointernal_Alien Sample", UNKNOWN_STACK_SIZE),
+    Thing("Sub-Denier Microfiber", UNKNOWN_STACK_SIZE),
+    Thing("Chitosan", UNKNOWN_STACK_SIZE),
+    Thing("Nanocrystalline Cellulose", UNKNOWN_STACK_SIZE),
+
+    Thing("Bhoddos", UNKNOWN_STACK_SIZE),
+    Thing("Dingrit Spike", UNKNOWN_STACK_SIZE),
+    Thing("Pineal Gland", UNKNOWN_STACK_SIZE),
+
+    Thing("Aerogel", UNKNOWN_STACK_SIZE),
     
+    Thing("Todo_Internal_Mediumdistillates", UNKNOWN_STACK_SIZE),
+    Thing("Yotoi Aloe", UNKNOWN_STACK_SIZE),
+
+    Thing("Fuel Rod Mk1", UNKNOWN_STACK_SIZE),
+    Thing("Ndfeb Alloy", UNKNOWN_STACK_SIZE),
+
+    Thing("Boron", UNKNOWN_STACK_SIZE),
+
+    Thing("Refined Syngas", UNKNOWN_STACK_SIZE),
+    
+    Thing("Dingrit Fur", UNKNOWN_STACK_SIZE),
+    Thing("Scrondrix", UNKNOWN_STACK_SIZE),
+
+    
+    Thing("Plutonium-239", UNKNOWN_STACK_SIZE),
+    Thing("Lead Container", UNKNOWN_STACK_SIZE),
+
+    Thing("Saline Water", UNKNOWN_STACK_SIZE),
+    Thing("Wax", UNKNOWN_STACK_SIZE),
+    Thing("Rennea", UNKNOWN_STACK_SIZE),
+    
+    Thing("Refined Natural Gas", UNKNOWN_STACK_SIZE),
+    
+    Thing("Yaedols", UNKNOWN_STACK_SIZE),
+    
+    Thing("Arqad", UNKNOWN_STACK_SIZE),
+    Thing("Todo_Internal_Vraukfood", UNKNOWN_STACK_SIZE),
+
+    Thing("Lime", UNKNOWN_STACK_SIZE),
+
+    Thing("Meta_Mall_Bulk_Import_Estimation", UNKNOWN_STACK_SIZE),
+
+    Thing("Yotoi Aloe Fruit", UNKNOWN_STACK_SIZE),
+    Thing("Chlorine", UNKNOWN_STACK_SIZE),
+
+    Thing("Molten Iron", UNKNOWN_STACK_SIZE),
+    Thing("Propeptides", UNKNOWN_STACK_SIZE),
+    Thing("Propeptide", UNKNOWN_STACK_SIZE),
+    Thing("Magnetic Beads", UNKNOWN_STACK_SIZE),
+    Thing("Niobium-Titanium Alloy", UNKNOWN_STACK_SIZE),
+
+    Thing("Kerogen", UNKNOWN_STACK_SIZE),
+    Thing("Collagen", UNKNOWN_STACK_SIZE),
+    Thing("Basic Substrate", UNKNOWN_STACK_SIZE),
+    
+    Thing("Biological Sample", UNKNOWN_STACK_SIZE),
+    Thing("Zogna Bacteria", UNKNOWN_STACK_SIZE),
+
+    Thing("Cridren", UNKNOWN_STACK_SIZE),
+
+    # oh boy
+    Thing("Control Unit", UNKNOWN_STACK_SIZE),
+    Thing("Processor", UNKNOWN_STACK_SIZE),
+    Thing("Neuromorphic Chip", UNKNOWN_STACK_SIZE),
+    Thing("Gadolinium Metal", UNKNOWN_STACK_SIZE),
+    Thing("Msa", UNKNOWN_STACK_SIZE),
+    Thing("Low-Power Resistors", UNKNOWN_STACK_SIZE),
+    Thing("Production Science Pack", UNKNOWN_STACK_SIZE),
+    Thing("Tholins", UNKNOWN_STACK_SIZE),
+    Thing("High-Frequency Smd Inductors", UNKNOWN_STACK_SIZE),
+    Thing("Coated Container", UNKNOWN_STACK_SIZE),
+    Thing("Phosphate Glass", UNKNOWN_STACK_SIZE),
+    Thing("Special Small Parts", UNKNOWN_STACK_SIZE),
+    Thing("Magnetic Core", UNKNOWN_STACK_SIZE),
+    Thing("Liquid Nitrogen", UNKNOWN_STACK_SIZE),
+    Thing("High-Tech Circuit Board", UNKNOWN_STACK_SIZE),
+    Thing("Fiberglass", UNKNOWN_STACK_SIZE),
+    Thing("Gold Plate", UNKNOWN_STACK_SIZE),
+    Thing("Copper Coating", UNKNOWN_STACK_SIZE),
+    Thing("Super Steel", UNKNOWN_STACK_SIZE),
+    Thing("Epoxy", UNKNOWN_STACK_SIZE),
+    Thing("Tin-Rare-Earth Alloy", UNKNOWN_STACK_SIZE),
+    Thing("Nuclear Sample", UNKNOWN_STACK_SIZE),
+    Thing("Mounted Circuit Substrate", UNKNOWN_STACK_SIZE),
+    Thing("Nano Structured Material", UNKNOWN_STACK_SIZE),
+    Thing("Heavily P-Doped Silicon", UNKNOWN_STACK_SIZE),
+    Thing("Multilayer Smd Capacitors", UNKNOWN_STACK_SIZE),
+    Thing("Smd Diodes", UNKNOWN_STACK_SIZE),
+    Thing("Printed Circuit Substrate Mk3", UNKNOWN_STACK_SIZE),
+    Thing("Cooling System", UNKNOWN_STACK_SIZE),
+    Thing("Alien Eznymes", UNKNOWN_STACK_SIZE),
+    Thing("Boron Carbide", UNKNOWN_STACK_SIZE),
+
+    # hmmmm
+    Thing("Nenbit Matrix", UNKNOWN_STACK_SIZE),
+    Thing("Zymogens", UNKNOWN_STACK_SIZE),
+    Thing("Microcin J25", UNKNOWN_STACK_SIZE),
+    Thing("Vinyl Acetate", UNKNOWN_STACK_SIZE),
+    Thing("Fuel Rod Mk2", UNKNOWN_STACK_SIZE),
+    Thing("Mmps", UNKNOWN_STACK_SIZE),
+    Thing("Venom Gland", UNKNOWN_STACK_SIZE),
+    Thing("Paramagnetic Material", UNKNOWN_STACK_SIZE),
+    Thing("Alien Enzymes", UNKNOWN_STACK_SIZE),
+    Thing("Nexelit Matrix", UNKNOWN_STACK_SIZE),
+    Thing("Chelators", UNKNOWN_STACK_SIZE),
+    Thing("Super Crystalline Structure", UNKNOWN_STACK_SIZE),
+    Thing("Phadai Carapace", UNKNOWN_STACK_SIZE),
+    Thing("Lithium Peroxide", UNKNOWN_STACK_SIZE),
+
+    # whoo boyy
+    Thing("Nexelit Battery", UNKNOWN_STACK_SIZE),
+    Thing("Carbon Fiber", UNKNOWN_STACK_SIZE),
+    Thing("Alien Bacteria", UNKNOWN_STACK_SIZE),
+    Thing("Anti Reflective Glass", UNKNOWN_STACK_SIZE),
+    Thing("Glass Fibers", UNKNOWN_STACK_SIZE),
+    Thing("Molybdenum-Silicon-Titanium-Aluminium-Nexelit Special Alloy", UNKNOWN_STACK_SIZE),
+    Thing("Molten Steel", UNKNOWN_STACK_SIZE),
+    Thing("Fuel Rod Mk 02", UNKNOWN_STACK_SIZE),
+    Thing("Phadai", UNKNOWN_STACK_SIZE),
+    Thing("Mechanical Parts 01", UNKNOWN_STACK_SIZE),
+    Thing("Dimethyl Sulfide (Dms", UNKNOWN_STACK_SIZE),
+    Thing("Matrix Metallopeptidases (Mmps", UNKNOWN_STACK_SIZE),
+    Thing("Molten Stainless Steel", UNKNOWN_STACK_SIZE),
+    Thing("Myoglobin", UNKNOWN_STACK_SIZE),
+    Thing("Arthoropod Blood", UNKNOWN_STACK_SIZE),
+    Thing("Cobalt Oxide", UNKNOWN_STACK_SIZE),
+    Thing("Optical Instrument", UNKNOWN_STACK_SIZE),
+    Thing("Rocket Fuel", UNKNOWN_STACK_SIZE),
+    Thing("Speed Module", UNKNOWN_STACK_SIZE),
+    Thing("Vonix", UNKNOWN_STACK_SIZE),
+    Thing("Molten Super Steel", UNKNOWN_STACK_SIZE),
+    Thing("Low Density Structure", UNKNOWN_STACK_SIZE),
+    Thing("Aluminium-Silver Alloy", UNKNOWN_STACK_SIZE),
+    Thing("Pacifastin", UNKNOWN_STACK_SIZE),
+    Thing("Vanadium Pentoxide", UNKNOWN_STACK_SIZE),
+    Thing("Core-Shell Nanoparticles", UNKNOWN_STACK_SIZE),
+    Thing("Polycrystalline Silicon Plate", UNKNOWN_STACK_SIZE),
+    Thing("Zungror Cocoon", UNKNOWN_STACK_SIZE),
+    Thing("Kekw", UNKNOWN_STACK_SIZE),
+
 ]
 
 T = {}
